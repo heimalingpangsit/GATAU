@@ -1,0 +1,14 @@
+{
+  "donors": [
+    {
+      "id": "dn_mn3pidlf1cbw",
+      "username": "jepin",
+      "password": "peler",
+      "durationHours": 168,
+      "label": "peler",
+      "active": true,
+      "createdAt": 1774301850195,
+      "expiresAt": 1774906650195
+    }
+  ]
+}
