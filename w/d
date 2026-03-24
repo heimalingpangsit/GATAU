@@ -1,14 +1,3 @@
 {
-  "donors": [
-    {
-      "id": "dn_mn5535vzh3l",
-      "username": "jepin",
-      "password": "peler123",
-      "durationHours": 168,
-      "label": null,
-      "active": true,
-      "createdAt": 1774388480399,
-      "expiresAt": 1774993280399
-    }
-  ]
+  "donors": []
 }
