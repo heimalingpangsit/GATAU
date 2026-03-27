@@ -1,14 +1,3 @@
 {
-  "donors": [
-    {
-      "id": "dn_mn55clo3git",
-      "username": "jepin",
-      "password": "12345678",
-      "durationHours": 24,
-      "label": null,
-      "active": true,
-      "createdAt": 1774388920755,
-      "expiresAt": 1774475320755
-    }
-  ]
+  "donors": []
 }
