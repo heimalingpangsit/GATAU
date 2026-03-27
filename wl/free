@@ -1,8 +1,9 @@
-{
-  "dev_jsv40tvfz2hmn55fnd2": {
-    "username": "peler",
-    "date": "2026-3-25",
-    "time": 1774389063973,
-    "expiry": 1774475463973
+[
+  {
+    "username": "jrkigacor420",
+    "key": "peler123",
+    "expires": "permanent",
+    "role": "admin",
+    "added": "2026-03-12"
   }
-}
+]
