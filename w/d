@@ -1,14 +1,3 @@
 {
-  "donors": [
-    {
-      "id": "dn_mn93oo5k7xm",
-      "username": "jepin",
-      "password": "ganteng",
-      "durationHours": 168,
-      "label": "pler",
-      "active": true,
-      "createdAt": 1774627989320,
-      "expiresAt": 1775232789320
-    }
-  ]
+  "donors": []
 }
