@@ -1,14 +1,3 @@
 {
-  "donors": [
-    {
-      "id": "dn_mnaox4mqkfc",
-      "username": "jejep",
-      "password": "peler",
-      "durationHours": 24,
-      "label": null,
-      "active": true,
-      "createdAt": 1774724122034,
-      "expiresAt": 1774810522034
-    }
-  ]
+  "donors": []
 }
