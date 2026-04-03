@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 2,
+  "p1Score": 3,
   "p2Score": 2,
   "chain": [
     {
@@ -32,11 +32,16 @@
       "word": "kutu",
       "by": "jrki",
       "wrong": false
+    },
+    {
+      "word": "tulis",
+      "by": "jepingacor",
+      "wrong": false
     }
   ],
-  "lastWord": "kutu",
-  "currentSyllable": "tu",
-  "turnOf": "jepingacor",
+  "lastWord": "tulis",
+  "currentSyllable": "lis",
+  "turnOf": "jrki",
   "startedAt": 1775201840726,
   "over": false,
   "winner": null,
