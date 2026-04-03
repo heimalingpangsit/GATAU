@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 1,
+  "p1Score": 2,
   "p2Score": 1,
   "chain": [
     {
@@ -22,11 +22,16 @@
       "word": "karena",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "nama",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "karena",
-  "currentSyllable": "na",
-  "turnOf": "jrki",
+  "lastWord": "nama",
+  "currentSyllable": "ma",
+  "turnOf": "jepingacor",
   "startedAt": 1775204462859,
   "over": false,
   "winner": null,
