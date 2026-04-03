@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 95,
+  "p1Score": 105,
   "p2Score": 71,
   "chain": [
     {
@@ -138,12 +138,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 10
+    },
+    {
+      "word": "kungkum",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 10
     }
   ],
-  "lastWord": "kungkung",
-  "currentSyllable": "kung",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208902834,
+  "lastWord": "kungkum",
+  "currentSyllable": "kum",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208908359,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
