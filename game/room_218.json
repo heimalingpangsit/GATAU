@@ -4,9 +4,9 @@
   "p2": "jepingacor",
   "p1Lives": 3,
   "p2Lives": 3,
-  "p1Strikes": 1,
+  "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 2,
+  "p1Score": 3,
   "p2Score": 2,
   "chain": [
     {
@@ -37,11 +37,16 @@
       "word": "kanu",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "kanja",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "makan",
-  "currentSyllable": "kan",
-  "turnOf": "jrki",
+  "lastWord": "kanja",
+  "currentSyllable": "ja",
+  "turnOf": "jepingacor",
   "startedAt": 1775204462859,
   "over": false,
   "winner": null,
