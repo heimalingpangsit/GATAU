@@ -2,9 +2,9 @@
   "roomId": "456",
   "p1": "jrki",
   "p2": "jepingacor",
-  "p1Lives": 3,
+  "p1Lives": 2,
   "p2Lives": 3,
-  "p1Strikes": 1,
+  "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 2,
   "p2Score": 2,
@@ -37,11 +37,16 @@
       "word": "gisul",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "gisu",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "linggis",
   "currentSyllable": "gis",
-  "turnOf": "jrki",
+  "turnOf": "jepingacor",
   "startedAt": 1775201319138,
   "over": false,
   "winner": null,
