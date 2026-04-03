@@ -2,9 +2,9 @@
   "roomId": "528",
   "p1": "jepingac0r",
   "p2": "iyek",
-  "p1Lives": 3,
+  "p1Lives": 2,
   "p2Lives": 3,
-  "p1Strikes": 1,
+  "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 15,
   "p2Score": 15,
@@ -177,11 +177,16 @@
       "word": "nikah",
       "by": "jepingac0r",
       "wrong": true
+    },
+    {
+      "word": "nikahan",
+      "by": "jepingac0r",
+      "wrong": true
     }
   ],
   "lastWord": "huni",
   "currentSyllable": "ni",
-  "turnOf": "jepingac0r",
+  "turnOf": "iyek",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
