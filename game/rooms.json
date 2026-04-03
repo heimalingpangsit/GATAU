@@ -1,0 +1,14 @@
+{
+  "218": {
+    "id": "218",
+    "name": "anjay",
+    "host": "jrki",
+    "players": [
+      "jrki"
+    ],
+    "maxPlayers": 2,
+    "password": null,
+    "createdAt": 1775204455512,
+    "rematchVotes": {}
+  }
+}
