@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 7,
+  "p1Score": 8,
   "p2Score": 7,
   "chain": [
     {
@@ -82,11 +82,16 @@
       "word": "punya",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "yayasan",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "punya",
-  "currentSyllable": "ya",
-  "turnOf": "jepingac0r",
+  "lastWord": "yayasan",
+  "currentSyllable": "san",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
