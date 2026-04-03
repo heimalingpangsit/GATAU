@@ -2,9 +2,9 @@
   "roomId": "855",
   "p1": "jepingacor",
   "p2": "jrki",
-  "p1Lives": 3,
+  "p1Lives": 2,
   "p2Lives": 1,
-  "p1Strikes": 1,
+  "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 5,
   "p2Score": 3,
@@ -82,11 +82,16 @@
       "word": "aih",
       "by": "jepingacor",
       "wrong": true
+    },
+    {
+      "word": "aihh",
+      "by": "jepingacor",
+      "wrong": true
     }
   ],
   "lastWord": "aih",
   "currentSyllable": "aih",
-  "turnOf": "jepingacor",
+  "turnOf": "jrki",
   "startedAt": 1775201840726,
   "over": false,
   "winner": null,
