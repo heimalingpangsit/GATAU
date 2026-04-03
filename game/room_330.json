@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 44,
+  "p1Score": 53,
   "p2Score": 55,
   "chain": [
     {
@@ -86,12 +86,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 9
+    },
+    {
+      "word": "selatan",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 9
     }
   ],
-  "lastWord": "ransel",
-  "currentSyllable": "sel",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208074539,
+  "lastWord": "selatan",
+  "currentSyllable": "tan",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208080917,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
