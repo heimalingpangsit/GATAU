@@ -5,9 +5,9 @@
   "p1Lives": 3,
   "p2Lives": 3,
   "p1Strikes": 0,
-  "p2Strikes": 1,
+  "p2Strikes": 0,
   "p1Score": 11,
-  "p2Score": 10,
+  "p2Score": 11,
   "chain": [
     {
       "word": "kuskus",
@@ -122,11 +122,16 @@
       "word": "autia",
       "by": "iyek",
       "wrong": true
+    },
+    {
+      "word": "autis",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "harimau",
-  "currentSyllable": "au",
-  "turnOf": "iyek",
+  "lastWord": "autis",
+  "currentSyllable": "tis",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
