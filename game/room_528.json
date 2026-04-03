@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 16,
+  "p1Score": 17,
   "p2Score": 17,
   "chain": [
     {
@@ -202,11 +202,16 @@
       "word": "gulat",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "latas",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "gulat",
-  "currentSyllable": "lat",
-  "turnOf": "jepingac0r",
+  "lastWord": "latas",
+  "currentSyllable": "tas",
+  "turnOf": "iyek",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
