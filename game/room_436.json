@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 141,
+  "p1Score": 150,
   "p2Score": 104,
   "chain": [
     {
@@ -198,12 +198,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 5
+    },
+    {
+      "word": "yahrai",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 9
     }
   ],
-  "lastWord": "yah",
-  "currentSyllable": "yah",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208975132,
+  "lastWord": "yahrai",
+  "currentSyllable": "ai",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208980914,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
