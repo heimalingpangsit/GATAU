@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 8,
-  "p2Score": 7,
+  "p2Score": 8,
   "chain": [
     {
       "word": "kuskus",
@@ -87,11 +87,16 @@
       "word": "yayasan",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "santun",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "yayasan",
-  "currentSyllable": "san",
-  "turnOf": "iyek",
+  "lastWord": "santun",
+  "currentSyllable": "tun",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
