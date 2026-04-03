@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 43,
+  "p1Score": 53,
   "p2Score": 28,
   "chain": [
     {
@@ -78,12 +78,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 7
+    },
+    {
+      "word": "hampiran",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 10
     }
   ],
-  "lastWord": "saham",
-  "currentSyllable": "ham",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208832458,
+  "lastWord": "hampiran",
+  "currentSyllable": "ran",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208838718,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
