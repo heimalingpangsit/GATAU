@@ -8,19 +8,25 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 0,
+  "p1Score": 5,
   "p2Score": 0,
   "chain": [
     {
-      "word": "arsis",
+      "word": "mersik",
       "by": "system"
+    },
+    {
+      "word": "siku",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 5
     }
   ],
-  "lastWord": "arsis",
-  "currentSyllable": "sis",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775207987416,
-  "startedAt": 1775207987416,
+  "lastWord": "siku",
+  "currentSyllable": "ku",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208000504,
+  "startedAt": 1775207989383,
   "over": false,
   "winner": null,
   "winReason": null
