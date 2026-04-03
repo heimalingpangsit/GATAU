@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 53,
+  "p1Score": 60,
   "p2Score": 65,
   "chain": [
     {
@@ -98,12 +98,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 10
+    },
+    {
+      "word": "gali",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 7
     }
   ],
-  "lastWord": "tanggal",
-  "currentSyllable": "gal",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208085390,
+  "lastWord": "gali",
+  "currentSyllable": "li",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208090789,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
