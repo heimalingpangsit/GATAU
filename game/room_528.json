@@ -1,0 +1,224 @@
+{
+  "roomId": "528",
+  "p1": "jepingac0r",
+  "p2": "iyek",
+  "p1Lives": 2,
+  "p2Lives": 3,
+  "p1Strikes": 0,
+  "p2Strikes": 1,
+  "p1Score": 17,
+  "p2Score": 17,
+  "chain": [
+    {
+      "word": "pelaku",
+      "by": "system"
+    },
+    {
+      "word": "kutu",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "tuhan",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "hantam",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "tampil",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "pilihan",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "hantu",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "tujuan",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "uanjay",
+      "by": "iyek",
+      "wrong": true
+    },
+    {
+      "word": "uang",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "uangsit",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "sita",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "tali",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "lirik",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "rikaya",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "yahudi",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "disini",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "nikahan",
+      "by": "iyek",
+      "wrong": true
+    },
+    {
+      "word": "nikah",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "kahnjut",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "juta",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "tampar",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "parang",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "ranggas",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "gasak",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "sakit",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "kita",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "tajam",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "jambul",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "bulat",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "latah",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "tahun",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "huni",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "nikah",
+      "by": "jepingac0r",
+      "wrong": true
+    },
+    {
+      "word": "nikahan",
+      "by": "jepingac0r",
+      "wrong": true
+    },
+    {
+      "word": "nimbrung",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "rungkad",
+      "by": "jepingac0r",
+      "wrong": true
+    },
+    {
+      "word": "runggu",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "gulat",
+      "by": "iyek",
+      "wrong": false
+    },
+    {
+      "word": "latas",
+      "by": "jepingac0r",
+      "wrong": false
+    },
+    {
+      "word": "taser",
+      "by": "iyek",
+      "wrong": true
+    }
+  ],
+  "lastWord": "latas",
+  "currentSyllable": "tas",
+  "turnOf": "iyek",
+  "startedAt": 1775205389475,
+  "over": false,
+  "winner": null,
+  "winReason": null
+}
