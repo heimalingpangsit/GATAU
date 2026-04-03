@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 9,
+  "p1Score": 10,
   "p2Score": 9,
   "chain": [
     {
@@ -102,11 +102,16 @@
       "word": "ganteng",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "tengah",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "ganteng",
-  "currentSyllable": "teng",
-  "turnOf": "jepingac0r",
+  "lastWord": "tengah",
+  "currentSyllable": "gah",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
