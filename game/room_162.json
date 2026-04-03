@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 3,
+  "p1Score": 4,
   "p2Score": 3,
   "chain": [
     {
@@ -47,11 +47,16 @@
       "word": "tinggi",
       "by": "jrki",
       "wrong": false
+    },
+    {
+      "word": "gila",
+      "by": "jepingacor",
+      "wrong": false
     }
   ],
-  "lastWord": "tinggi",
-  "currentSyllable": "gi",
-  "turnOf": "jepingacor",
+  "lastWord": "gila",
+  "currentSyllable": "la",
+  "turnOf": "jrki",
   "startedAt": 1775201970370,
   "over": false,
   "winner": null,
