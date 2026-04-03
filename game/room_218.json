@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 3,
+  "p1Score": 4,
   "p2Score": 3,
   "chain": [
     {
@@ -47,11 +47,16 @@
       "word": "jatuh",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "tuhan",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "jatuh",
-  "currentSyllable": "tuh",
-  "turnOf": "jrki",
+  "lastWord": "tuhan",
+  "currentSyllable": "han",
+  "turnOf": "jepingacor",
   "startedAt": 1775204462859,
   "over": false,
   "winner": null,
