@@ -5,7 +5,7 @@
   "p1Lives": 3,
   "p2Lives": 3,
   "p1Score": 1,
-  "p2Score": 0,
+  "p2Score": 1,
   "chain": [
     {
       "word": "syaka",
@@ -15,11 +15,16 @@
       "word": "kata",
       "by": "jrki",
       "wrong": false
+    },
+    {
+      "word": "tali",
+      "by": "jepingacor",
+      "wrong": false
     }
   ],
-  "lastWord": "kata",
-  "currentSyllable": "ta",
-  "turnOf": "jepingacor",
+  "lastWord": "tali",
+  "currentSyllable": "li",
+  "turnOf": "jrki",
   "startedAt": 1775197842563,
   "over": false,
   "winner": null,
