@@ -4,11 +4,13 @@
     "name": "anjay",
     "host": "jrki",
     "players": [
-      "jrki"
+      "jrki",
+      "jepingacor"
     ],
     "maxPlayers": 2,
     "password": null,
     "createdAt": 1775204455512,
-    "rematchVotes": {}
+    "rematchVotes": {},
+    "guest": "jepingacor"
   }
 }
