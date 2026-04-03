@@ -6,17 +6,22 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 0,
+  "p1Score": 1,
   "p2Score": 0,
   "chain": [
     {
       "word": "memajak",
       "by": "system"
+    },
+    {
+      "word": "jaki",
+      "by": "jepingacor",
+      "wrong": false
     }
   ],
-  "lastWord": "memajak",
-  "currentSyllable": "jak",
-  "turnOf": "jepingacor",
+  "lastWord": "jaki",
+  "currentSyllable": "ki",
+  "turnOf": "jrki",
   "startedAt": 1775201840726,
   "over": false,
   "winner": null,
