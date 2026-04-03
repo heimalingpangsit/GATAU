@@ -1,0 +1,24 @@
+{
+  "roomId": "855",
+  "p1": "jepingacor",
+  "p2": "jrki",
+  "p1Lives": 3,
+  "p2Lives": 3,
+  "p1Strikes": 0,
+  "p2Strikes": 0,
+  "p1Score": 0,
+  "p2Score": 0,
+  "chain": [
+    {
+      "word": "memajak",
+      "by": "system"
+    }
+  ],
+  "lastWord": "memajak",
+  "currentSyllable": "jak",
+  "turnOf": "jepingacor",
+  "startedAt": 1775201840726,
+  "over": false,
+  "winner": null,
+  "winReason": null
+}
