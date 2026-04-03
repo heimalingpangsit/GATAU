@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 13,
-  "p2Score": 12,
+  "p2Score": 13,
   "chain": [
     {
       "word": "kuskus",
@@ -142,11 +142,16 @@
       "word": "sulap",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "lapas",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "sulap",
-  "currentSyllable": "lap",
-  "turnOf": "iyek",
+  "lastWord": "lapas",
+  "currentSyllable": "pas",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
