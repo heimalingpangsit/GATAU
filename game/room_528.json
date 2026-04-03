@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 11,
-  "p2Score": 10,
+  "p2Score": 11,
   "chain": [
     {
       "word": "pelaku",
@@ -127,11 +127,16 @@
       "word": "ranggas",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "gasak",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "ranggas",
-  "currentSyllable": "gas",
-  "turnOf": "iyek",
+  "lastWord": "gasak",
+  "currentSyllable": "sak",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
