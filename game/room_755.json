@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 1,
-  "p2Score": 0,
+  "p2Score": 1,
   "chain": [
     {
       "word": "triode",
@@ -17,11 +17,16 @@
       "word": "maldin asu",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "suka",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "maldin asu",
-  "currentSyllable": "su",
-  "turnOf": "jrki",
+  "lastWord": "suka",
+  "currentSyllable": "ka",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205149502,
   "over": false,
   "winner": null,
