@@ -6,9 +6,9 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1FirstWrong": true,
+  "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 33,
+  "p1Score": 44,
   "p2Score": 46,
   "chain": [
     {
@@ -76,15 +76,16 @@
       "pts": 9
     },
     {
-      "word": "tenggeng",
+      "word": "tenggara",
       "by": "jrki",
-      "wrong": true
+      "wrong": false,
+      "pts": 10
     }
   ],
-  "lastWord": "mateng",
-  "currentSyllable": "teng",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208059364,
+  "lastWord": "tenggara",
+  "currentSyllable": "ra",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208068916,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
