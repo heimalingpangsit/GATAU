@@ -4,7 +4,7 @@
   "p2": "jepingacor",
   "p1Lives": 3,
   "p2Lives": 3,
-  "p1Score": 1,
+  "p1Score": 2,
   "p2Score": 1,
   "chain": [
     {
@@ -20,11 +20,16 @@
       "word": "tali",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "liat",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "tali",
-  "currentSyllable": "li",
-  "turnOf": "jrki",
+  "lastWord": "liat",
+  "currentSyllable": "iat",
+  "turnOf": "jepingacor",
   "startedAt": 1775197842563,
   "over": false,
   "winner": null,
