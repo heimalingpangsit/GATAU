@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 5,
-  "p2Score": 4,
+  "p2Score": 5,
   "chain": [
     {
       "word": "kakicak",
@@ -67,11 +67,16 @@
       "word": "tulang",
       "by": "jrki",
       "wrong": false
+    },
+    {
+      "word": "langsung",
+      "by": "jepingacor",
+      "wrong": false
     }
   ],
-  "lastWord": "tulang",
-  "currentSyllable": "lang",
-  "turnOf": "jepingacor",
+  "lastWord": "langsung",
+  "currentSyllable": "sung",
+  "turnOf": "jrki",
   "startedAt": 1775204462859,
   "over": false,
   "winner": null,
