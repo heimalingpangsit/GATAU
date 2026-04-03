@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1FirstWrong": false,
-  "p2FirstWrong": false,
+  "p2FirstWrong": true,
   "p1Score": 8,
   "p2Score": 0,
   "chain": [
@@ -20,6 +20,11 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 8
+    },
+    {
+      "word": "nengdi",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "pineng",
