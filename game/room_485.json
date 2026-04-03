@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 18,
-  "p2Score": 17,
+  "p2Score": 18,
   "chain": [
     {
       "word": "kuskus",
@@ -197,11 +197,16 @@
       "word": "bakar",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "karton",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "bakar",
-  "currentSyllable": "kar",
-  "turnOf": "iyek",
+  "lastWord": "karton",
+  "currentSyllable": "ton",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
