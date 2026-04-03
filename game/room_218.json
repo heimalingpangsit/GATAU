@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 7,
+  "p1Score": 8,
   "p2Score": 7,
   "chain": [
     {
@@ -92,11 +92,16 @@
       "word": "lokasi",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "siapa",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "lokasi",
-  "currentSyllable": "si",
-  "turnOf": "jrki",
+  "lastWord": "siapa",
+  "currentSyllable": "pa",
+  "turnOf": "jepingacor",
   "startedAt": 1775204462859,
   "over": false,
   "winner": null,
