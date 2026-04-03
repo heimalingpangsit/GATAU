@@ -1,0 +1,27 @@
+{
+  "roomId": "330",
+  "p1": "jrki",
+  "p2": "jepingac0r",
+  "p1Lives": 3,
+  "p2Lives": 3,
+  "p1Strikes": 0,
+  "p2Strikes": 0,
+  "p1FirstWrong": false,
+  "p2FirstWrong": false,
+  "p1Score": 0,
+  "p2Score": 0,
+  "chain": [
+    {
+      "word": "arsis",
+      "by": "system"
+    }
+  ],
+  "lastWord": "arsis",
+  "currentSyllable": "sis",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775207987416,
+  "startedAt": 1775207987416,
+  "over": false,
+  "winner": null,
+  "winReason": null
+}
