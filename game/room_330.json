@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 13,
-  "p2Score": 6,
+  "p2Score": 17,
   "chain": [
     {
       "word": "mersik",
@@ -32,12 +32,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 8
+    },
+    {
+      "word": "langsung",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 11
     }
   ],
-  "lastWord": "tulang",
-  "currentSyllable": "lang",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208015232,
+  "lastWord": "langsung",
+  "currentSyllable": "sung",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208018838,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
