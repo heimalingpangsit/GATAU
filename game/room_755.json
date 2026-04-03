@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 4,
+  "p1Score": 5,
   "p2Score": 4,
   "chain": [
     {
@@ -52,11 +52,16 @@
       "word": "pantai",
       "by": "jrki",
       "wrong": false
+    },
+    {
+      "word": "aiwo",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "pantai",
-  "currentSyllable": "ai",
-  "turnOf": "jepingac0r",
+  "lastWord": "aiwo",
+  "currentSyllable": "wo",
+  "turnOf": "jrki",
   "startedAt": 1775205149502,
   "over": false,
   "winner": null,
