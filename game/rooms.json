@@ -4,11 +4,13 @@
     "name": "pler",
     "host": "jrki",
     "players": [
-      "jrki"
+      "jrki",
+      "jepingac0r"
     ],
     "maxPlayers": 2,
     "password": null,
     "createdAt": 1775206732641,
-    "rematchVotes": {}
+    "rematchVotes": {},
+    "guest": "jepingac0r"
   }
 }
