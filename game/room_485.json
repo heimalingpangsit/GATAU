@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 2,
+  "p1Score": 3,
   "p2Score": 2,
   "chain": [
     {
@@ -32,11 +32,16 @@
       "word": "kibul",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "bulu",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "kibul",
-  "currentSyllable": "bul",
-  "turnOf": "jepingac0r",
+  "lastWord": "bulu",
+  "currentSyllable": "lu",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
