@@ -5,7 +5,7 @@
   "p1Lives": 3,
   "p2Lives": 2,
   "p1Strikes": 0,
-  "p2Strikes": 0,
+  "p2Strikes": 1,
   "p1Score": 5,
   "p2Score": 3,
   "chain": [
@@ -67,6 +67,11 @@
       "word": "aih",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "aiha",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "aih",
