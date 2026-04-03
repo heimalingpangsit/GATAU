@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 17,
+  "p1Score": 27,
   "p2Score": 7,
   "chain": [
     {
@@ -42,12 +42,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 7
+    },
+    {
+      "word": "kilikan",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 10
     }
   ],
-  "lastWord": "gokil",
-  "currentSyllable": "kil",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208789887,
+  "lastWord": "kilikan",
+  "currentSyllable": "kan",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208795261,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
