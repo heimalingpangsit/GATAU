@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 75,
-  "p2Score": 45,
+  "p2Score": 51,
   "chain": [
     {
       "word": "atropin",
@@ -108,12 +108,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 10
+    },
+    {
+      "word": "reta",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 6
     }
   ],
-  "lastWord": "gampret",
-  "currentSyllable": "ret",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208866946,
+  "lastWord": "reta",
+  "currentSyllable": "ta",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208876575,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
