@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 18,
+  "p1Score": 19,
   "p2Score": 18,
   "chain": [
     {
@@ -202,11 +202,16 @@
       "word": "karton",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "tontonan",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "karton",
-  "currentSyllable": "ton",
-  "turnOf": "jepingac0r",
+  "lastWord": "tontonan",
+  "currentSyllable": "nan",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
