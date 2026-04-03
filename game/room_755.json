@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 8,
-  "p2Score": 5,
+  "p2Score": 6,
   "chain": [
     {
       "word": "triode",
@@ -97,11 +97,16 @@
       "word": "tinjunya",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "yayasan",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "tinjunya",
-  "currentSyllable": "ya",
-  "turnOf": "jrki",
+  "lastWord": "yayasan",
+  "currentSyllable": "san",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205149502,
   "over": false,
   "winner": null,
