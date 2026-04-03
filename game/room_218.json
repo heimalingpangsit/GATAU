@@ -4,7 +4,7 @@
   "p2": "jepingacor",
   "p1Lives": 3,
   "p2Lives": 2,
-  "p1Strikes": 0,
+  "p1Strikes": 1,
   "p2Strikes": 0,
   "p1Score": 9,
   "p2Score": 8,
@@ -116,6 +116,11 @@
     {
       "word": "gisul",
       "by": "jepingacor",
+      "wrong": true
+    },
+    {
+      "word": "yyyy",
+      "by": "jrki",
       "wrong": true
     }
   ],
