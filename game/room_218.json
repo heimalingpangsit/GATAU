@@ -6,17 +6,22 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 0,
+  "p1Score": 1,
   "p2Score": 0,
   "chain": [
     {
       "word": "kakicak",
       "by": "system"
+    },
+    {
+      "word": "cakar",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "kakicak",
-  "currentSyllable": "cak",
-  "turnOf": "jrki",
+  "lastWord": "cakar",
+  "currentSyllable": "kar",
+  "turnOf": "jepingacor",
   "startedAt": 1775204462859,
   "over": false,
   "winner": null,
