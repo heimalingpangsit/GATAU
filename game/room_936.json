@@ -6,17 +6,22 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 0,
+  "p1Score": 1,
   "p2Score": 0,
   "chain": [
     {
       "word": "rias",
       "by": "system"
+    },
+    {
+      "word": "asu",
+      "by": "jepingacor",
+      "wrong": false
     }
   ],
-  "lastWord": "rias",
-  "currentSyllable": "as",
-  "turnOf": "jepingacor",
+  "lastWord": "asu",
+  "currentSyllable": "su",
+  "turnOf": "jrki",
   "startedAt": 1775205044964,
   "over": false,
   "winner": null,
