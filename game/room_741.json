@@ -6,9 +6,9 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1FirstWrong": false,
+  "p1FirstWrong": true,
   "p2FirstWrong": false,
-  "p1Score": 1,
+  "p1Score": 0,
   "p2Score": 4,
   "chain": [
     {
@@ -64,6 +64,11 @@
       "word": "gung",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "gunggang",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "gung",
