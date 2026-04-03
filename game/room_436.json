@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 36,
-  "p2Score": 15,
+  "p2Score": 21,
   "chain": [
     {
       "word": "atropin",
@@ -60,12 +60,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 9
+    },
+    {
+      "word": "juli",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 6
     }
   ],
-  "lastWord": "tanjul",
-  "currentSyllable": "jul",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208809837,
+  "lastWord": "juli",
+  "currentSyllable": "li",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208817517,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
