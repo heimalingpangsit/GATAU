@@ -5,7 +5,7 @@
   "p1Lives": 3,
   "p2Lives": 3,
   "p1Strikes": 0,
-  "p2Strikes": 0,
+  "p2Strikes": 1,
   "p1Score": 4,
   "p2Score": 3,
   "chain": [
@@ -47,6 +47,11 @@
       "word": "santai",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "aiman",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "santai",
