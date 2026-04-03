@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 4,
+  "p1Score": 5,
   "p2Score": 4,
   "chain": [
     {
@@ -57,11 +57,16 @@
       "word": "lampu",
       "by": "jrki",
       "wrong": false
+    },
+    {
+      "word": "putih",
+      "by": "jepingacor",
+      "wrong": false
     }
   ],
-  "lastWord": "lampu",
-  "currentSyllable": "pu",
-  "turnOf": "jepingacor",
+  "lastWord": "putih",
+  "currentSyllable": "tih",
+  "turnOf": "jrki",
   "startedAt": 1775201970370,
   "over": false,
   "winner": null,
