@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 8,
+  "p1Score": 9,
   "p2Score": 8,
   "chain": [
     {
@@ -92,11 +92,16 @@
       "word": "santun",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "tunggangan",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "santun",
-  "currentSyllable": "tun",
-  "turnOf": "jepingac0r",
+  "lastWord": "tunggangan",
+  "currentSyllable": "gan",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
