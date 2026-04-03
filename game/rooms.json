@@ -13,20 +13,5 @@
     "createdAt": 1775212015003,
     "rematchVotes": {},
     "guest": "jrki"
-  },
-  "285": {
-    "id": "285",
-    "name": "y",
-    "host": "jrki",
-    "players": [
-      "jrki",
-      "jepingac0r"
-    ],
-    "maxPlayers": 2,
-    "gameType": "balapan_ketik",
-    "password": null,
-    "createdAt": 1775212726615,
-    "rematchVotes": {},
-    "guest": "jepingac0r"
   }
 }
