@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 17,
-  "p2Score": 0,
+  "p2Score": 7,
   "chain": [
     {
       "word": "atropin",
@@ -36,12 +36,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 9
+    },
+    {
+      "word": "gokil",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 7
     }
   ],
-  "lastWord": "nengok",
-  "currentSyllable": "gok",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208782227,
+  "lastWord": "gokil",
+  "currentSyllable": "kil",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208789887,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
