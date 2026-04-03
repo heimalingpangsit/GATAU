@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 5,
-  "p2Score": 4,
+  "p2Score": 5,
   "chain": [
     {
       "word": "kuskus",
@@ -57,11 +57,16 @@
       "word": "tonggok",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "gokil",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "tonggok",
-  "currentSyllable": "gok",
-  "turnOf": "iyek",
+  "lastWord": "gokil",
+  "currentSyllable": "kil",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
