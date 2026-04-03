@@ -3,9 +3,9 @@
   "p1": "jepingacor",
   "p2": "jrki",
   "p1Lives": 1,
-  "p2Lives": 1,
+  "p2Lives": 0,
   "p1Strikes": 0,
-  "p2Strikes": 1,
+  "p2Strikes": 0,
   "p1Score": 5,
   "p2Score": 4,
   "chain": [
@@ -107,13 +107,18 @@
       "word": "pler",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "pler",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "putih",
   "currentSyllable": "tih",
-  "turnOf": "jrki",
+  "turnOf": "jepingacor",
   "startedAt": 1775201970370,
-  "over": false,
-  "winner": null,
-  "winReason": null
+  "over": true,
+  "winner": "jepingacor",
+  "winReason": "lives"
 }
