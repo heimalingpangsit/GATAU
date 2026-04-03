@@ -4,7 +4,7 @@
   "p2": "jrki",
   "p1Lives": 3,
   "p2Lives": 3,
-  "p1Strikes": 0,
+  "p1Strikes": 1,
   "p2Strikes": 0,
   "p1Score": 1,
   "p2Score": 1,
@@ -22,6 +22,11 @@
       "word": "kotai",
       "by": "jrki",
       "wrong": false
+    },
+    {
+      "word": "aiha",
+      "by": "jepingacor",
+      "wrong": true
     }
   ],
   "lastWord": "kotai",
