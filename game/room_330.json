@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 83,
+  "p1Score": 89,
   "p2Score": 102,
   "chain": [
     {
@@ -146,12 +146,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 6
+    },
+    {
+      "word": "hirau",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 6
     }
   ],
-  "lastWord": "hir",
-  "currentSyllable": "hir",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208136786,
+  "lastWord": "hirau",
+  "currentSyllable": "au",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208151629,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
