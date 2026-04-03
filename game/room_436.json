@@ -3,11 +3,11 @@
   "p1": "jepingac0r",
   "p2": "jrki",
   "p1Lives": 3,
-  "p2Lives": 1,
+  "p2Lives": 0,
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1FirstWrong": false,
-  "p2FirstWrong": true,
+  "p2FirstWrong": false,
   "p1Score": 168,
   "p2Score": 110,
   "chain": [
@@ -237,14 +237,19 @@
       "word": "gisul",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "gisum",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "nangis",
   "currentSyllable": "gis",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775209012166,
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775209024057,
   "startedAt": 1775208744502,
-  "over": false,
-  "winner": null,
-  "winReason": null
+  "over": true,
+  "winner": "jepingac0r",
+  "winReason": "lives"
 }
