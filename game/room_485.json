@@ -1,0 +1,24 @@
+{
+  "roomId": "485",
+  "p1": "jepingac0r",
+  "p2": "iyek",
+  "p1Lives": 3,
+  "p2Lives": 3,
+  "p1Strikes": 0,
+  "p2Strikes": 0,
+  "p1Score": 0,
+  "p2Score": 0,
+  "chain": [
+    {
+      "word": "kuskus",
+      "by": "system"
+    }
+  ],
+  "lastWord": "kuskus",
+  "currentSyllable": "kus",
+  "turnOf": "jepingac0r",
+  "startedAt": 1775205733638,
+  "over": false,
+  "winner": null,
+  "winReason": null
+}
