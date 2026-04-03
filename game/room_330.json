@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 27,
-  "p2Score": 29,
+  "p2Score": 37,
   "chain": [
     {
       "word": "mersik",
@@ -56,12 +56,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 5
+    },
+    {
+      "word": "makar",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 8
     }
   ],
-  "lastWord": "lima",
-  "currentSyllable": "ma",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208045406,
+  "lastWord": "makar",
+  "currentSyllable": "kar",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208050078,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
