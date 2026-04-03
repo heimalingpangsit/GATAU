@@ -1,0 +1,24 @@
+{
+  "roomId": "528",
+  "p1": "jepingac0r",
+  "p2": "iyek",
+  "p1Lives": 3,
+  "p2Lives": 3,
+  "p1Strikes": 0,
+  "p2Strikes": 0,
+  "p1Score": 0,
+  "p2Score": 0,
+  "chain": [
+    {
+      "word": "pelaku",
+      "by": "system"
+    }
+  ],
+  "lastWord": "pelaku",
+  "currentSyllable": "ku",
+  "turnOf": "jepingac0r",
+  "startedAt": 1775205389475,
+  "over": false,
+  "winner": null,
+  "winReason": null
+}
