@@ -1,1 +1,14 @@
-{}
+{
+  "936": {
+    "id": "936",
+    "name": "yah",
+    "host": "jepingacor",
+    "players": [
+      "jepingacor"
+    ],
+    "maxPlayers": 2,
+    "password": null,
+    "createdAt": 1775205035611,
+    "rematchVotes": {}
+  }
+}
