@@ -133,7 +133,7 @@
   "currentSyllable": "gis",
   "turnOf": "jepingacor",
   "startedAt": 1775204462859,
-  "over": false,
-  "winner": null,
-  "winReason": null
+  "over": true,
+  "winner": "jrki",
+  "winReason": "time"
 }
