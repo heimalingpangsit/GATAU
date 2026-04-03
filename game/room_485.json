@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 19,
-  "p2Score": 18,
+  "p2Score": 19,
   "chain": [
     {
       "word": "kuskus",
@@ -207,11 +207,16 @@
       "word": "tontonan",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "nanda",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "tontonan",
-  "currentSyllable": "nan",
-  "turnOf": "iyek",
+  "lastWord": "nanda",
+  "currentSyllable": "da",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
