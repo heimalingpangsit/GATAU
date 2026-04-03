@@ -5,9 +5,9 @@
   "p1Lives": 3,
   "p2Lives": 3,
   "p1Strikes": 0,
-  "p2Strikes": 1,
+  "p2Strikes": 0,
   "p1Score": 4,
-  "p2Score": 3,
+  "p2Score": 4,
   "chain": [
     {
       "word": "pelaku",
@@ -52,11 +52,16 @@
       "word": "uanjay",
       "by": "iyek",
       "wrong": true
+    },
+    {
+      "word": "uang",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "tujuan",
-  "currentSyllable": "uan",
-  "turnOf": "iyek",
+  "lastWord": "uang",
+  "currentSyllable": "uang",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
