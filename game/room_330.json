@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 137,
+  "p1Score": 144,
   "p2Score": 171,
   "chain": [
     {
@@ -235,12 +235,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 11
+    },
+    {
+      "word": "lahang",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 7
     }
   ],
-  "lastWord": "taksalah",
-  "currentSyllable": "lah",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208237730,
+  "lastWord": "lahang",
+  "currentSyllable": "hang",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208250225,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
