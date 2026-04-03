@@ -6,7 +6,7 @@
   "p2Lives": 1,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 8,
+  "p1Score": 9,
   "p2Score": 6,
   "chain": [
     {
@@ -102,11 +102,16 @@
       "word": "yayasan",
       "by": "jrki",
       "wrong": false
+    },
+    {
+      "word": "sangli",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "yayasan",
-  "currentSyllable": "san",
-  "turnOf": "jepingac0r",
+  "lastWord": "sangli",
+  "currentSyllable": "li",
+  "turnOf": "jrki",
   "startedAt": 1775205149502,
   "over": false,
   "winner": null,
