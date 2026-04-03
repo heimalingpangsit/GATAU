@@ -1,1 +1,14 @@
-{}
+{
+  "753": {
+    "id": "753",
+    "name": "q",
+    "host": "jrki",
+    "players": [
+      "jrki"
+    ],
+    "maxPlayers": 2,
+    "password": null,
+    "createdAt": 1775209334307,
+    "rematchVotes": {}
+  }
+}
