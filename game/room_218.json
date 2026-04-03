@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 5,
+  "p1Score": 6,
   "p2Score": 5,
   "chain": [
     {
@@ -72,11 +72,16 @@
       "word": "langsung",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "sungkan",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "langsung",
-  "currentSyllable": "sung",
-  "turnOf": "jrki",
+  "lastWord": "sungkan",
+  "currentSyllable": "kan",
+  "turnOf": "jepingacor",
   "startedAt": 1775204462859,
   "over": false,
   "winner": null,
