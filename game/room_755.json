@@ -6,7 +6,7 @@
   "p2Lives": 1,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 9,
+  "p1Score": 10,
   "p2Score": 7,
   "chain": [
     {
@@ -112,11 +112,16 @@
       "word": "lima",
       "by": "jrki",
       "wrong": false
+    },
+    {
+      "word": "maximalist",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "lima",
-  "currentSyllable": "ma",
-  "turnOf": "jepingac0r",
+  "lastWord": "maximalist",
+  "currentSyllable": "list",
+  "turnOf": "jrki",
   "startedAt": 1775205149502,
   "over": false,
   "winner": null,
