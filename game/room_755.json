@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 9,
-  "p2Score": 6,
+  "p2Score": 7,
   "chain": [
     {
       "word": "triode",
@@ -107,11 +107,16 @@
       "word": "sangli",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "lima",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "sangli",
-  "currentSyllable": "li",
-  "turnOf": "jrki",
+  "lastWord": "lima",
+  "currentSyllable": "ma",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205149502,
   "over": false,
   "winner": null,
