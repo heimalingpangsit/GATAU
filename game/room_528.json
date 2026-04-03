@@ -5,9 +5,9 @@
   "p1Lives": 2,
   "p2Lives": 3,
   "p1Strikes": 0,
-  "p2Strikes": 1,
+  "p2Strikes": 0,
   "p1Score": 17,
-  "p2Score": 17,
+  "p2Score": 18,
   "chain": [
     {
       "word": "pelaku",
@@ -212,11 +212,16 @@
       "word": "taser",
       "by": "iyek",
       "wrong": true
+    },
+    {
+      "word": "tasik",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "latas",
-  "currentSyllable": "tas",
-  "turnOf": "iyek",
+  "lastWord": "tasik",
+  "currentSyllable": "sik",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
