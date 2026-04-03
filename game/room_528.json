@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 6,
+  "p1Score": 7,
   "p2Score": 6,
   "chain": [
     {
@@ -77,11 +77,16 @@
       "word": "lirik",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "rikaya",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "lirik",
-  "currentSyllable": "rik",
-  "turnOf": "jepingac0r",
+  "lastWord": "rikaya",
+  "currentSyllable": "ya",
+  "turnOf": "iyek",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
