@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 2,
-  "p2Score": 1,
+  "p2Score": 2,
   "chain": [
     {
       "word": "memajak",
@@ -27,11 +27,16 @@
       "word": "takut",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "kutu",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "takut",
-  "currentSyllable": "kut",
-  "turnOf": "jrki",
+  "lastWord": "kutu",
+  "currentSyllable": "tu",
+  "turnOf": "jepingacor",
   "startedAt": 1775201840726,
   "over": false,
   "winner": null,
