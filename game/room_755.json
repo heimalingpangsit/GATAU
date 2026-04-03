@@ -5,7 +5,7 @@
   "p1Lives": 3,
   "p2Lives": 3,
   "p1Strikes": 0,
-  "p2Strikes": 0,
+  "p2Strikes": 1,
   "p1Score": 5,
   "p2Score": 4,
   "chain": [
@@ -57,6 +57,11 @@
       "word": "aiwo",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "worker",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "aiwo",
