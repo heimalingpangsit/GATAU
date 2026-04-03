@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 8,
+  "p1Score": 17,
   "p2Score": 0,
   "chain": [
     {
@@ -30,12 +30,18 @@
       "word": "nengneng",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "nengok",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 9
     }
   ],
-  "lastWord": "pineng",
-  "currentSyllable": "neng",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208777485,
+  "lastWord": "nengok",
+  "currentSyllable": "gok",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208782227,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
