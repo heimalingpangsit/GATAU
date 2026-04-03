@@ -13,18 +13,5 @@
     "createdAt": 1775212015003,
     "rematchVotes": {},
     "guest": "jrki"
-  },
-  "493": {
-    "id": "493",
-    "name": "y",
-    "host": "jrki",
-    "players": [
-      "jrki"
-    ],
-    "maxPlayers": 2,
-    "gameType": "sambung_kata",
-    "password": null,
-    "createdAt": 1775212713803,
-    "rematchVotes": {}
   }
 }
