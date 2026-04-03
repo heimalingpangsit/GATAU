@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 75,
+  "p1Score": 84,
   "p2Score": 51,
   "chain": [
     {
@@ -114,12 +114,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 6
+    },
+    {
+      "word": "takung",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 9
     }
   ],
-  "lastWord": "reta",
-  "currentSyllable": "ta",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208876575,
+  "lastWord": "takung",
+  "currentSyllable": "kung",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208880177,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
