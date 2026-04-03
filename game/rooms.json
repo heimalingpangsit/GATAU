@@ -1,1 +1,14 @@
-{}
+{
+  "485": {
+    "id": "485",
+    "name": "memek",
+    "host": "jepingac0r",
+    "players": [
+      "jepingac0r"
+    ],
+    "maxPlayers": 2,
+    "password": null,
+    "createdAt": 1775205704374,
+    "rematchVotes": {}
+  }
+}
