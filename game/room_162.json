@@ -3,9 +3,9 @@
   "p1": "jepingacor",
   "p2": "jrki",
   "p1Lives": 2,
-  "p2Lives": 2,
+  "p2Lives": 1,
   "p1Strikes": 0,
-  "p2Strikes": 1,
+  "p2Strikes": 0,
   "p1Score": 5,
   "p2Score": 4,
   "chain": [
@@ -87,11 +87,16 @@
       "word": "tihminal",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "tihlo",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "putih",
   "currentSyllable": "tih",
-  "turnOf": "jrki",
+  "turnOf": "jepingacor",
   "startedAt": 1775201970370,
   "over": false,
   "winner": null,
