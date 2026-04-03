@@ -4,7 +4,7 @@
   "p2": "jepingacor",
   "p1Lives": 3,
   "p2Lives": 3,
-  "p1Strikes": 0,
+  "p1Strikes": 1,
   "p2Strikes": 0,
   "p1Score": 2,
   "p2Score": 2,
@@ -32,6 +32,11 @@
       "word": "makan",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "kanu",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "makan",
