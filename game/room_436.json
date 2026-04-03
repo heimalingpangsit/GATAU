@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 36,
+  "p1Score": 43,
   "p2Score": 21,
   "chain": [
     {
@@ -66,12 +66,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 6
+    },
+    {
+      "word": "lisah",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 7
     }
   ],
-  "lastWord": "juli",
-  "currentSyllable": "li",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208817517,
+  "lastWord": "lisah",
+  "currentSyllable": "sah",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208823630,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
