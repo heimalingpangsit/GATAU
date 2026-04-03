@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 137,
-  "p2Score": 160,
+  "p2Score": 171,
   "chain": [
     {
       "word": "mersik",
@@ -229,12 +229,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 6
+    },
+    {
+      "word": "taksalah",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 11
     }
   ],
-  "lastWord": "kita",
-  "currentSyllable": "ta",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208232901,
+  "lastWord": "taksalah",
+  "currentSyllable": "lah",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208237730,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
