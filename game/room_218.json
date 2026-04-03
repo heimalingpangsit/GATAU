@@ -4,9 +4,9 @@
   "p2": "jepingacor",
   "p1Lives": 3,
   "p2Lives": 3,
-  "p1Strikes": 1,
+  "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 4,
+  "p1Score": 5,
   "p2Score": 4,
   "chain": [
     {
@@ -62,11 +62,16 @@
       "word": "tuhan",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "tulang",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "hantu",
-  "currentSyllable": "tu",
-  "turnOf": "jrki",
+  "lastWord": "tulang",
+  "currentSyllable": "lang",
+  "turnOf": "jepingacor",
   "startedAt": 1775204462859,
   "over": false,
   "winner": null,
