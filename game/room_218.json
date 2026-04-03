@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 7,
-  "p2Score": 6,
+  "p2Score": 7,
   "chain": [
     {
       "word": "kakicak",
@@ -87,11 +87,16 @@
       "word": "balok",
       "by": "jrki",
       "wrong": false
+    },
+    {
+      "word": "lokasi",
+      "by": "jepingacor",
+      "wrong": false
     }
   ],
-  "lastWord": "balok",
-  "currentSyllable": "lok",
-  "turnOf": "jepingacor",
+  "lastWord": "lokasi",
+  "currentSyllable": "si",
+  "turnOf": "jrki",
   "startedAt": 1775204462859,
   "over": false,
   "winner": null,
