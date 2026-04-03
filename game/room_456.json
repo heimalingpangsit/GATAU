@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 1,
+  "p1Score": 2,
   "p2Score": 1,
   "chain": [
     {
@@ -22,11 +22,16 @@
       "word": "siapa",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "paling",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "siapa",
-  "currentSyllable": "pa",
-  "turnOf": "jrki",
+  "lastWord": "paling",
+  "currentSyllable": "ling",
+  "turnOf": "jepingacor",
   "startedAt": 1775201319138,
   "over": false,
   "winner": null,
