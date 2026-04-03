@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 131,
+  "p1Score": 137,
   "p2Score": 160,
   "chain": [
     {
@@ -223,12 +223,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 7
+    },
+    {
+      "word": "kita",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 6
     }
   ],
-  "lastWord": "tiki",
-  "currentSyllable": "ki",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208225851,
+  "lastWord": "kita",
+  "currentSyllable": "ta",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208232901,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
