@@ -1,1 +1,14 @@
-{}
+{
+  "528": {
+    "id": "528",
+    "name": "jawa",
+    "host": "jepingac0r",
+    "players": [
+      "jepingac0r"
+    ],
+    "maxPlayers": 2,
+    "password": null,
+    "createdAt": 1775205379330,
+    "rematchVotes": {}
+  }
+}
