@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 105,
-  "p2Score": 71,
+  "p2Score": 78,
   "chain": [
     {
       "word": "atropin",
@@ -144,12 +144,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 10
+    },
+    {
+      "word": "kuman",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 7
     }
   ],
-  "lastWord": "kungkum",
-  "currentSyllable": "kum",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208908359,
+  "lastWord": "kuman",
+  "currentSyllable": "man",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208915184,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
