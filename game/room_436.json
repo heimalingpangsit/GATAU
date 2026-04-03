@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 43,
-  "p2Score": 21,
+  "p2Score": 28,
   "chain": [
     {
       "word": "atropin",
@@ -72,12 +72,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 7
+    },
+    {
+      "word": "saham",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 7
     }
   ],
-  "lastWord": "lisah",
-  "currentSyllable": "sah",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208823630,
+  "lastWord": "saham",
+  "currentSyllable": "ham",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208832458,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
