@@ -4,7 +4,7 @@
   "p2": "jepingacor",
   "p1Lives": 3,
   "p2Lives": 3,
-  "p1Strikes": 0,
+  "p1Strikes": 1,
   "p2Strikes": 0,
   "p1Score": 4,
   "p2Score": 4,
@@ -57,6 +57,11 @@
       "word": "hantu",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "tuhan",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "hantu",
