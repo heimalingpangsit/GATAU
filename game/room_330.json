@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 131,
-  "p2Score": 153,
+  "p2Score": 160,
   "chain": [
     {
       "word": "mersik",
@@ -217,12 +217,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 10
+    },
+    {
+      "word": "tiki",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 7
     }
   ],
-  "lastWord": "logistik",
-  "currentSyllable": "tik",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208220183,
+  "lastWord": "tiki",
+  "currentSyllable": "ki",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208225851,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
