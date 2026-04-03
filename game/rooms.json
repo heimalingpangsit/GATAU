@@ -1,16 +1,1 @@
-{
-  "218": {
-    "id": "218",
-    "name": "anjay",
-    "host": "jrki",
-    "players": [
-      "jrki",
-      "jepingacor"
-    ],
-    "maxPlayers": 2,
-    "password": null,
-    "createdAt": 1775204455512,
-    "rematchVotes": {},
-    "guest": "jepingacor"
-  }
-}
+{}
