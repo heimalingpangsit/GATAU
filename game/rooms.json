@@ -1,1 +1,14 @@
-{}
+{
+  "330": {
+    "id": "330",
+    "name": "ppp",
+    "host": "jrki",
+    "players": [
+      "jrki"
+    ],
+    "maxPlayers": 2,
+    "password": null,
+    "createdAt": 1775207977884,
+    "rematchVotes": {}
+  }
+}
