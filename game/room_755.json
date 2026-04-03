@@ -6,7 +6,7 @@
   "p2Lives": 2,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 5,
+  "p1Score": 6,
   "p2Score": 4,
   "chain": [
     {
@@ -67,11 +67,16 @@
       "word": "woro",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "woton",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "aiwo",
-  "currentSyllable": "wo",
-  "turnOf": "jepingac0r",
+  "lastWord": "woton",
+  "currentSyllable": "ton",
+  "turnOf": "jrki",
   "startedAt": 1775205149502,
   "over": false,
   "winner": null,
