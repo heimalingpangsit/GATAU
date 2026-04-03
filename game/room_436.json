@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 141,
-  "p2Score": 99,
+  "p2Score": 104,
   "chain": [
     {
       "word": "atropin",
@@ -192,12 +192,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 10
+    },
+    {
+      "word": "yah",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 5
     }
   ],
-  "lastWord": "nantinya",
-  "currentSyllable": "ya",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208967268,
+  "lastWord": "yah",
+  "currentSyllable": "yah",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208975132,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
