@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 14,
-  "p2Score": 13,
+  "p2Score": 14,
   "chain": [
     {
       "word": "kuskus",
@@ -152,11 +152,16 @@
       "word": "pasar",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "sari",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "pasar",
-  "currentSyllable": "sar",
-  "turnOf": "iyek",
+  "lastWord": "sari",
+  "currentSyllable": "ri",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
