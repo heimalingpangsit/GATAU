@@ -3,11 +3,11 @@
   "p1": "jepingac0r",
   "p2": "jrki",
   "p1Lives": 3,
-  "p2Lives": 2,
+  "p2Lives": 1,
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1FirstWrong": false,
-  "p2FirstWrong": true,
+  "p2FirstWrong": false,
   "p1Score": 150,
   "p2Score": 103,
   "chain": [
@@ -209,12 +209,17 @@
       "word": "aiyo",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "aiman",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "yahrai",
   "currentSyllable": "ai",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208980914,
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208996031,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
