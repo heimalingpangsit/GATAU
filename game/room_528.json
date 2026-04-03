@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 14,
-  "p2Score": 13,
+  "p2Score": 14,
   "chain": [
     {
       "word": "pelaku",
@@ -157,11 +157,16 @@
       "word": "bulat",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "latah",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "bulat",
-  "currentSyllable": "lat",
-  "turnOf": "iyek",
+  "lastWord": "latah",
+  "currentSyllable": "tah",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
