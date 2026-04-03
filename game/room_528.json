@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 5,
-  "p2Score": 4,
+  "p2Score": 5,
   "chain": [
     {
       "word": "pelaku",
@@ -62,11 +62,16 @@
       "word": "uangsit",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "sita",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "uangsit",
-  "currentSyllable": "sit",
-  "turnOf": "iyek",
+  "lastWord": "sita",
+  "currentSyllable": "ta",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
