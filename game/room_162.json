@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 2,
+  "p1Score": 3,
   "p2Score": 2,
   "chain": [
     {
@@ -37,11 +37,16 @@
       "word": "airan",
       "by": "jrki",
       "wrong": false
+    },
+    {
+      "word": "ranting",
+      "by": "jepingacor",
+      "wrong": false
     }
   ],
-  "lastWord": "airan",
-  "currentSyllable": "ran",
-  "turnOf": "jepingacor",
+  "lastWord": "ranting",
+  "currentSyllable": "ting",
+  "turnOf": "jrki",
   "startedAt": 1775201970370,
   "over": false,
   "winner": null,
