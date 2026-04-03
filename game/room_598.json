@@ -2,7 +2,7 @@
   "roomId": "598",
   "p1": "jrki",
   "p2": "jepingacor",
-  "p1Lives": 2,
+  "p1Lives": 1,
   "p2Lives": 1,
   "p1Score": 2,
   "p2Score": 1,
@@ -40,11 +40,16 @@
       "word": "iato",
       "by": "jepingacor",
       "wrong": true
+    },
+    {
+      "word": "iatsa",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "liat",
   "currentSyllable": "iat",
-  "turnOf": "jrki",
+  "turnOf": "jepingacor",
   "startedAt": 1775197842563,
   "over": false,
   "winner": null,
