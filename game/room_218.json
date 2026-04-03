@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 1,
-  "p2Score": 0,
+  "p2Score": 1,
   "chain": [
     {
       "word": "kakicak",
@@ -17,11 +17,16 @@
       "word": "cakar",
       "by": "jrki",
       "wrong": false
+    },
+    {
+      "word": "karena",
+      "by": "jepingacor",
+      "wrong": false
     }
   ],
-  "lastWord": "cakar",
-  "currentSyllable": "kar",
-  "turnOf": "jepingacor",
+  "lastWord": "karena",
+  "currentSyllable": "na",
+  "turnOf": "jrki",
   "startedAt": 1775204462859,
   "over": false,
   "winner": null,
