@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 4,
+  "p1Score": 5,
   "p2Score": 4,
   "chain": [
     {
@@ -57,11 +57,16 @@
       "word": "uang",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "uangsit",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "uang",
-  "currentSyllable": "uang",
-  "turnOf": "jepingac0r",
+  "lastWord": "uangsit",
+  "currentSyllable": "sit",
+  "turnOf": "iyek",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
