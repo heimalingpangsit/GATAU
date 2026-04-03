@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 1,
+  "p1Score": 2,
   "p2Score": 1,
   "chain": [
     {
@@ -22,11 +22,16 @@
       "word": "samarinda",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "daki",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "samarinda",
-  "currentSyllable": "da",
-  "turnOf": "jepingac0r",
+  "lastWord": "daki",
+  "currentSyllable": "ki",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
