@@ -4,9 +4,9 @@
   "p2": "jrki",
   "p1Lives": 3,
   "p2Lives": 2,
-  "p1Strikes": 1,
+  "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 4,
+  "p1Score": 5,
   "p2Score": 3,
   "chain": [
     {
@@ -62,11 +62,16 @@
       "word": "ailopyu",
       "by": "jepingacor",
       "wrong": true
+    },
+    {
+      "word": "aih",
+      "by": "jepingacor",
+      "wrong": false
     }
   ],
-  "lastWord": "santai",
-  "currentSyllable": "ai",
-  "turnOf": "jepingacor",
+  "lastWord": "aih",
+  "currentSyllable": "aih",
+  "turnOf": "jrki",
   "startedAt": 1775201840726,
   "over": false,
   "winner": null,
