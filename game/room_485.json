@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 15,
-  "p2Score": 14,
+  "p2Score": 15,
   "chain": [
     {
       "word": "kuskus",
@@ -162,11 +162,16 @@
       "word": "rima",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "makan",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "rima",
-  "currentSyllable": "ma",
-  "turnOf": "iyek",
+  "lastWord": "makan",
+  "currentSyllable": "kan",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
