@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 4,
-  "p2Score": 3,
+  "p2Score": 4,
   "chain": [
     {
       "word": "triode",
@@ -47,11 +47,16 @@
       "word": "asupan",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "pantai",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "asupan",
-  "currentSyllable": "pan",
-  "turnOf": "jrki",
+  "lastWord": "pantai",
+  "currentSyllable": "ai",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205149502,
   "over": false,
   "winner": null,
