@@ -6,17 +6,22 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 0,
+  "p1Score": 1,
   "p2Score": 0,
   "chain": [
     {
       "word": "gibas",
       "by": "system"
+    },
+    {
+      "word": "basi",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "gibas",
-  "currentSyllable": "bas",
-  "turnOf": "jrki",
+  "lastWord": "basi",
+  "currentSyllable": "si",
+  "turnOf": "jepingacor",
   "startedAt": 1775201319138,
   "over": false,
   "winner": null,
