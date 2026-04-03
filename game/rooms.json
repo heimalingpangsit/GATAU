@@ -26,10 +26,7 @@
     "gameType": "balapan_ketik",
     "password": null,
     "createdAt": 1775212726615,
-    "rematchVotes": {
-      "jrki": true,
-      "jepingac0r": true
-    },
+    "rematchVotes": {},
     "guest": "jepingac0r"
   }
 }
