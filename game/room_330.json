@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 22,
-  "p2Score": 17,
+  "p2Score": 29,
   "chain": [
     {
       "word": "mersik",
@@ -44,12 +44,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 9
+    },
+    {
+      "word": "ailurofili",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 12
     }
   ],
-  "lastWord": "sungai",
-  "currentSyllable": "ai",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208023462,
+  "lastWord": "ailurofili",
+  "currentSyllable": "li",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208030403,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
