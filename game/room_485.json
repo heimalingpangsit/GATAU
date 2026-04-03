@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 6,
+  "p1Score": 7,
   "p2Score": 6,
   "chain": [
     {
@@ -72,11 +72,16 @@
       "word": "lola",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "lampu",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "lola",
-  "currentSyllable": "la",
-  "turnOf": "jepingac0r",
+  "lastWord": "lampu",
+  "currentSyllable": "pu",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
