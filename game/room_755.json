@@ -3,9 +3,9 @@
   "p1": "jepingac0r",
   "p2": "jrki",
   "p1Lives": 3,
-  "p2Lives": 1,
+  "p2Lives": 0,
   "p1Strikes": 0,
-  "p2Strikes": 1,
+  "p2Strikes": 0,
   "p1Score": 10,
   "p2Score": 7,
   "chain": [
@@ -122,13 +122,18 @@
       "word": "listan",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "lista",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "maximalist",
   "currentSyllable": "list",
-  "turnOf": "jrki",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205149502,
-  "over": false,
-  "winner": null,
-  "winReason": null
+  "over": true,
+  "winner": "jepingac0r",
+  "winReason": "lives"
 }
