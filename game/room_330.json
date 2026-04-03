@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 122,
-  "p2Score": 142,
+  "p2Score": 153,
   "chain": [
     {
       "word": "mersik",
@@ -200,12 +200,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 8
+    },
+    {
+      "word": "ginekolog",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 11
     }
   ],
-  "lastWord": "dingin",
-  "currentSyllable": "gin",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208204859,
+  "lastWord": "ginekolog",
+  "currentSyllable": "log",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208210890,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
