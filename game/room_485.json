@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 9,
-  "p2Score": 8,
+  "p2Score": 9,
   "chain": [
     {
       "word": "kuskus",
@@ -97,11 +97,16 @@
       "word": "tunggangan",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "ganteng",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "tunggangan",
-  "currentSyllable": "gan",
-  "turnOf": "iyek",
+  "lastWord": "ganteng",
+  "currentSyllable": "teng",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
