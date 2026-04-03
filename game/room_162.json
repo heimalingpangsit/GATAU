@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 3,
-  "p2Score": 2,
+  "p2Score": 3,
   "chain": [
     {
       "word": "nyontek",
@@ -42,11 +42,16 @@
       "word": "ranting",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "tinggi",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "ranting",
-  "currentSyllable": "ting",
-  "turnOf": "jrki",
+  "lastWord": "tinggi",
+  "currentSyllable": "gi",
+  "turnOf": "jepingacor",
   "startedAt": 1775201970370,
   "over": false,
   "winner": null,
