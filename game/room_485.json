@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 10,
+  "p1Score": 11,
   "p2Score": 10,
   "chain": [
     {
@@ -112,11 +112,16 @@
       "word": "gahar",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "harimau",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "gahar",
-  "currentSyllable": "har",
-  "turnOf": "jepingac0r",
+  "lastWord": "harimau",
+  "currentSyllable": "au",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
