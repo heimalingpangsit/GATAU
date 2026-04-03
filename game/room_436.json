@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 114,
-  "p2Score": 78,
+  "p2Score": 84,
   "chain": [
     {
       "word": "atropin",
@@ -156,12 +156,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 9
+    },
+    {
+      "word": "dubes",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 6
     }
   ],
-  "lastWord": "mandub",
-  "currentSyllable": "dub",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208920381,
+  "lastWord": "dubes",
+  "currentSyllable": "bes",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208936664,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
