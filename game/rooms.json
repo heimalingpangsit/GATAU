@@ -1,1 +1,14 @@
-{}
+{
+  "436": {
+    "id": "436",
+    "name": "p",
+    "host": "jepingac0r",
+    "players": [
+      "jepingac0r"
+    ],
+    "maxPlayers": 2,
+    "password": null,
+    "createdAt": 1775208738229,
+    "rematchVotes": {}
+  }
+}
