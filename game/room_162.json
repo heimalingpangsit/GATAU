@@ -4,7 +4,7 @@
   "p2": "jrki",
   "p1Lives": 2,
   "p2Lives": 1,
-  "p1Strikes": 0,
+  "p1Strikes": 1,
   "p2Strikes": 0,
   "p1Score": 5,
   "p2Score": 4,
@@ -91,6 +91,11 @@
     {
       "word": "tihlo",
       "by": "jrki",
+      "wrong": true
+    },
+    {
+      "word": "tihlo",
+      "by": "jepingacor",
       "wrong": true
     }
   ],
