@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 2,
-  "p2Score": 1,
+  "p2Score": 2,
   "chain": [
     {
       "word": "triode",
@@ -27,11 +27,16 @@
       "word": "kanjut",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "juta",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "kanjut",
-  "currentSyllable": "jut",
-  "turnOf": "jrki",
+  "lastWord": "juta",
+  "currentSyllable": "ta",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205149502,
   "over": false,
   "winner": null,
