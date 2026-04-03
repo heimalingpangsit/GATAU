@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 27,
+  "p1Score": 36,
   "p2Score": 15,
   "chain": [
     {
@@ -54,12 +54,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 8
+    },
+    {
+      "word": "tanjul",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 9
     }
   ],
-  "lastWord": "kantan",
-  "currentSyllable": "tan",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208805623,
+  "lastWord": "tanjul",
+  "currentSyllable": "jul",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208809837,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
