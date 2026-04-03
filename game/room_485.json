@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 17,
+  "p1Score": 18,
   "p2Score": 17,
   "chain": [
     {
@@ -192,11 +192,16 @@
       "word": "rimba",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "bakar",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "rimba",
-  "currentSyllable": "ba",
-  "turnOf": "jepingac0r",
+  "lastWord": "bakar",
+  "currentSyllable": "kar",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
