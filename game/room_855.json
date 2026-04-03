@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 3,
-  "p2Score": 2,
+  "p2Score": 3,
   "chain": [
     {
       "word": "memajak",
@@ -37,11 +37,16 @@
       "word": "tulis",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "lisan",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "tulis",
-  "currentSyllable": "lis",
-  "turnOf": "jrki",
+  "lastWord": "lisan",
+  "currentSyllable": "san",
+  "turnOf": "jepingacor",
   "startedAt": 1775201840726,
   "over": false,
   "winner": null,
