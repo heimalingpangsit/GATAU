@@ -3,7 +3,7 @@
   "p1": "jrki",
   "p2": "jepingacor",
   "p1Lives": 3,
-  "p2Lives": 3,
+  "p2Lives": 2,
   "p1Score": 2,
   "p2Score": 1,
   "chain": [
@@ -25,11 +25,16 @@
       "word": "liat",
       "by": "jrki",
       "wrong": false
+    },
+    {
+      "word": "iatu",
+      "by": "jepingacor",
+      "wrong": true
     }
   ],
   "lastWord": "liat",
   "currentSyllable": "iat",
-  "turnOf": "jepingacor",
+  "turnOf": "jrki",
   "startedAt": 1775197842563,
   "over": false,
   "winner": null,
