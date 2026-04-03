@@ -7,9 +7,9 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1FirstWrong": false,
-  "p2FirstWrong": false,
+  "p2FirstWrong": true,
   "p1Score": 150,
-  "p2Score": 104,
+  "p2Score": 103,
   "chain": [
     {
       "word": "atropin",
@@ -204,6 +204,11 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 9
+    },
+    {
+      "word": "aiyo",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "yahrai",
