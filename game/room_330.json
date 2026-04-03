@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 104,
+  "p1Score": 114,
   "p2Score": 132,
   "chain": [
     {
@@ -182,12 +182,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 9
+    },
+    {
+      "word": "yayasan",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 10
     }
   ],
-  "lastWord": "airnya",
-  "currentSyllable": "ya",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208183402,
+  "lastWord": "yayasan",
+  "currentSyllable": "san",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208189193,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
