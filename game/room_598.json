@@ -4,17 +4,22 @@
   "p2": "jepingacor",
   "p1Lives": 3,
   "p2Lives": 3,
-  "p1Score": 0,
+  "p1Score": 1,
   "p2Score": 0,
   "chain": [
     {
       "word": "syaka",
       "by": "system"
+    },
+    {
+      "word": "kata",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "syaka",
-  "currentSyllable": "ka",
-  "turnOf": "jrki",
+  "lastWord": "kata",
+  "currentSyllable": "ta",
+  "turnOf": "jepingacor",
   "startedAt": 1775197842563,
   "over": false,
   "winner": null,
