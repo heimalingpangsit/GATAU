@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 4,
+  "p1Score": 5,
   "p2Score": 4,
   "chain": [
     {
@@ -52,11 +52,16 @@
       "word": "kantong",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "tonggok",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "kantong",
-  "currentSyllable": "tong",
-  "turnOf": "jepingac0r",
+  "lastWord": "tonggok",
+  "currentSyllable": "gok",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
