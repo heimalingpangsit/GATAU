@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 22,
+  "p1Score": 27,
   "p2Score": 29,
   "chain": [
     {
@@ -50,12 +50,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 12
+    },
+    {
+      "word": "lima",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 5
     }
   ],
-  "lastWord": "ailurofili",
-  "currentSyllable": "li",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208030403,
+  "lastWord": "lima",
+  "currentSyllable": "ma",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208045406,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
