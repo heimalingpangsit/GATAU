@@ -1,0 +1,22 @@
+{
+  "roomId": "598",
+  "p1": "jrki",
+  "p2": "jepingacor",
+  "p1Lives": 3,
+  "p2Lives": 3,
+  "p1Score": 0,
+  "p2Score": 0,
+  "chain": [
+    {
+      "word": "syaka",
+      "by": "system"
+    }
+  ],
+  "lastWord": "syaka",
+  "currentSyllable": "ka",
+  "turnOf": "jrki",
+  "startedAt": 1775197842563,
+  "over": false,
+  "winner": null,
+  "winReason": null
+}
