@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 16,
+  "p1Score": 17,
   "p2Score": 16,
   "chain": [
     {
@@ -182,11 +182,16 @@
       "word": "juta",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "tari",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "juta",
-  "currentSyllable": "ta",
-  "turnOf": "jepingac0r",
+  "lastWord": "tari",
+  "currentSyllable": "ri",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
