@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 10,
+  "p1Score": 11,
   "p2Score": 10,
   "chain": [
     {
@@ -122,11 +122,16 @@
       "word": "parang",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "ranggas",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "parang",
-  "currentSyllable": "rang",
-  "turnOf": "jepingac0r",
+  "lastWord": "ranggas",
+  "currentSyllable": "gas",
+  "turnOf": "iyek",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
