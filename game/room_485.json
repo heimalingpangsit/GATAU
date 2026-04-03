@@ -223,7 +223,7 @@
   "currentSyllable": "ai",
   "turnOf": "iyek",
   "startedAt": 1775205733638,
-  "over": false,
-  "winner": null,
-  "winReason": null
+  "over": true,
+  "winner": "jepingac0r",
+  "winReason": "time"
 }
