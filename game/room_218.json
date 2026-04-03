@@ -1,0 +1,24 @@
+{
+  "roomId": "218",
+  "p1": "jrki",
+  "p2": "jepingacor",
+  "p1Lives": 3,
+  "p2Lives": 3,
+  "p1Strikes": 0,
+  "p2Strikes": 0,
+  "p1Score": 0,
+  "p2Score": 0,
+  "chain": [
+    {
+      "word": "kakicak",
+      "by": "system"
+    }
+  ],
+  "lastWord": "kakicak",
+  "currentSyllable": "cak",
+  "turnOf": "jrki",
+  "startedAt": 1775204462859,
+  "over": false,
+  "winner": null,
+  "winReason": null
+}
