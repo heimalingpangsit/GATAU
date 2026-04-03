@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 10,
-  "p2Score": 9,
+  "p2Score": 10,
   "chain": [
     {
       "word": "pelaku",
@@ -117,11 +117,16 @@
       "word": "tampar",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "parang",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "tampar",
-  "currentSyllable": "par",
-  "turnOf": "iyek",
+  "lastWord": "parang",
+  "currentSyllable": "rang",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
