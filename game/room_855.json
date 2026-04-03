@@ -3,9 +3,9 @@
   "p1": "jepingacor",
   "p2": "jrki",
   "p1Lives": 2,
-  "p2Lives": 1,
+  "p2Lives": 0,
   "p1Strikes": 0,
-  "p2Strikes": 1,
+  "p2Strikes": 0,
   "p1Score": 5,
   "p2Score": 3,
   "chain": [
@@ -92,13 +92,18 @@
       "word": "aihh",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "u",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "aih",
   "currentSyllable": "aih",
-  "turnOf": "jrki",
+  "turnOf": "jepingacor",
   "startedAt": 1775201840726,
-  "over": false,
-  "winner": null,
-  "winReason": null
+  "over": true,
+  "winner": "jepingacor",
+  "winReason": "lives"
 }
