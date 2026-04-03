@@ -21,7 +21,7 @@
   "turnOf": "jrki",
   "turnStartedAt": 1775209344144,
   "startedAt": 1775209344145,
-  "over": false,
-  "winner": null,
-  "winReason": null
+  "over": true,
+  "winner": "jrki",
+  "winReason": "forfeit"
 }
