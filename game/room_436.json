@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 114,
+  "p1Score": 121,
   "p2Score": 84,
   "chain": [
     {
@@ -162,12 +162,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 6
+    },
+    {
+      "word": "bese",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 7
     }
   ],
-  "lastWord": "dubes",
-  "currentSyllable": "bes",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208936664,
+  "lastWord": "bese",
+  "currentSyllable": "se",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208940903,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
