@@ -4,7 +4,7 @@
   "p2": "jrki",
   "p1Lives": 3,
   "p2Lives": 2,
-  "p1Strikes": 0,
+  "p1Strikes": 1,
   "p2Strikes": 0,
   "p1Score": 4,
   "p2Score": 3,
@@ -56,6 +56,11 @@
     {
       "word": "aiko",
       "by": "jrki",
+      "wrong": true
+    },
+    {
+      "word": "ailopyu",
+      "by": "jepingacor",
       "wrong": true
     }
   ],
