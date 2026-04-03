@@ -1,1 +1,14 @@
-{}
+{
+  "741": {
+    "id": "741",
+    "name": "pler",
+    "host": "jrki",
+    "players": [
+      "jrki"
+    ],
+    "maxPlayers": 2,
+    "password": null,
+    "createdAt": 1775206732641,
+    "rematchVotes": {}
+  }
+}
