@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 6,
+  "p1Score": 7,
   "p2Score": 6,
   "chain": [
     {
@@ -82,11 +82,16 @@
       "word": "kanibal",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "balok",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "kanibal",
-  "currentSyllable": "bal",
-  "turnOf": "jrki",
+  "lastWord": "balok",
+  "currentSyllable": "lok",
+  "turnOf": "jepingacor",
   "startedAt": 1775204462859,
   "over": false,
   "winner": null,
