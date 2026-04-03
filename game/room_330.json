@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 152,
+  "p1Score": 158,
   "p2Score": 192,
   "chain": [
     {
@@ -259,12 +259,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 9
+    },
+    {
+      "word": "tari",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 6
     }
   ],
-  "lastWord": "pintar",
-  "currentSyllable": "tar",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208267448,
+  "lastWord": "tari",
+  "currentSyllable": "ri",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208277344,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
