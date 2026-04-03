@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 96,
-  "p2Score": 113,
+  "p2Score": 123,
   "chain": [
     {
       "word": "mersik",
@@ -164,12 +164,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 7
+    },
+    {
+      "word": "pugasan",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 10
     }
   ],
-  "lastWord": "lampu",
-  "currentSyllable": "pu",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208164738,
+  "lastWord": "pugasan",
+  "currentSyllable": "san",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208170451,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
