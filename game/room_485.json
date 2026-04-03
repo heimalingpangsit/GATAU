@@ -4,9 +4,9 @@
   "p2": "iyek",
   "p1Lives": 3,
   "p2Lives": 3,
-  "p1Strikes": 1,
+  "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 15,
+  "p1Score": 16,
   "p2Score": 15,
   "chain": [
     {
@@ -172,11 +172,16 @@
       "word": "kanjut",
       "by": "jepingac0r",
       "wrong": true
+    },
+    {
+      "word": "kanjut",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "makan",
-  "currentSyllable": "kan",
-  "turnOf": "jepingac0r",
+  "lastWord": "kanjut",
+  "currentSyllable": "jut",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
