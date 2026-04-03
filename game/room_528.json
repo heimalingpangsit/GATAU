@@ -5,9 +5,9 @@
   "p1Lives": 3,
   "p2Lives": 3,
   "p1Strikes": 0,
-  "p2Strikes": 1,
+  "p2Strikes": 0,
   "p1Score": 8,
-  "p2Score": 7,
+  "p2Score": 8,
   "chain": [
     {
       "word": "pelaku",
@@ -97,11 +97,16 @@
       "word": "nikahan",
       "by": "iyek",
       "wrong": true
+    },
+    {
+      "word": "nikah",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "disini",
-  "currentSyllable": "ni",
-  "turnOf": "iyek",
+  "lastWord": "nikah",
+  "currentSyllable": "kah",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
