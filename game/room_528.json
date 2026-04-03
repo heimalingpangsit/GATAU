@@ -223,7 +223,7 @@
   "currentSyllable": "sik",
   "turnOf": "jepingac0r",
   "startedAt": 1775205389475,
-  "over": false,
-  "winner": null,
-  "winReason": null
+  "over": true,
+  "winner": "jepingac0r",
+  "winReason": "forfeit"
 }
