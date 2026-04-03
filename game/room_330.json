@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 144,
-  "p2Score": 171,
+  "p2Score": 183,
   "chain": [
     {
       "word": "mersik",
@@ -241,12 +241,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 7
+    },
+    {
+      "word": "hangatkan",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 12
     }
   ],
-  "lastWord": "lahang",
-  "currentSyllable": "hang",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208250225,
+  "lastWord": "hangatkan",
+  "currentSyllable": "kan",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208254630,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
