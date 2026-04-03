@@ -7,9 +7,9 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1FirstWrong": false,
-  "p2FirstWrong": false,
+  "p2FirstWrong": true,
   "p1Score": 168,
-  "p2Score": 111,
+  "p2Score": 110,
   "chain": [
     {
       "word": "atropin",
@@ -232,6 +232,11 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 9
+    },
+    {
+      "word": "gisul",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "nangis",
