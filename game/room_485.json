@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 12,
+  "p1Score": 13,
   "p2Score": 12,
   "chain": [
     {
@@ -137,11 +137,16 @@
       "word": "susu",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "sulap",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "susu",
-  "currentSyllable": "su",
-  "turnOf": "jepingac0r",
+  "lastWord": "sulap",
+  "currentSyllable": "lap",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
