@@ -19,12 +19,14 @@
     "name": "y",
     "host": "jrki",
     "players": [
-      "jrki"
+      "jrki",
+      "jepingac0r"
     ],
     "maxPlayers": 2,
     "gameType": "balapan_ketik",
     "password": null,
     "createdAt": 1775212726615,
-    "rematchVotes": {}
+    "rematchVotes": {},
+    "guest": "jepingac0r"
   }
 }
