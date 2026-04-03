@@ -58,7 +58,7 @@
   "currentSyllable": "gis",
   "turnOf": "jrki",
   "startedAt": 1775201319138,
-  "over": false,
-  "winner": null,
-  "winReason": null
+  "over": true,
+  "winner": "draw",
+  "winReason": "time"
 }
