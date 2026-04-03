@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 7,
+  "p1Score": 8,
   "p2Score": 7,
   "chain": [
     {
@@ -87,11 +87,16 @@
       "word": "yahudi",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "disini",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "yahudi",
-  "currentSyllable": "di",
-  "turnOf": "jepingac0r",
+  "lastWord": "disini",
+  "currentSyllable": "ni",
+  "turnOf": "iyek",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
