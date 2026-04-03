@@ -5,7 +5,7 @@
   "p1Lives": 3,
   "p2Lives": 3,
   "p1Strikes": 0,
-  "p2Strikes": 0,
+  "p2Strikes": 1,
   "p1Score": 8,
   "p2Score": 7,
   "chain": [
@@ -92,6 +92,11 @@
       "word": "disini",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "nikahan",
+      "by": "iyek",
+      "wrong": true
     }
   ],
   "lastWord": "disini",
