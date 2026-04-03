@@ -6,17 +6,22 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 0,
+  "p1Score": 1,
   "p2Score": 0,
   "chain": [
     {
       "word": "kuskus",
       "by": "system"
+    },
+    {
+      "word": "kusam",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "kuskus",
-  "currentSyllable": "kus",
-  "turnOf": "jepingac0r",
+  "lastWord": "kusam",
+  "currentSyllable": "sam",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
