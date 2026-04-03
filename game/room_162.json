@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 4,
-  "p2Score": 3,
+  "p2Score": 4,
   "chain": [
     {
       "word": "nyontek",
@@ -52,11 +52,16 @@
       "word": "gila",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "lampu",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "gila",
-  "currentSyllable": "la",
-  "turnOf": "jrki",
+  "lastWord": "lampu",
+  "currentSyllable": "pu",
+  "turnOf": "jepingacor",
   "startedAt": 1775201970370,
   "over": false,
   "winner": null,
