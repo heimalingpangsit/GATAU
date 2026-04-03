@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 17,
-  "p2Score": 16,
+  "p2Score": 17,
   "chain": [
     {
       "word": "kuskus",
@@ -187,11 +187,16 @@
       "word": "tari",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "rimba",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "tari",
-  "currentSyllable": "ri",
-  "turnOf": "iyek",
+  "lastWord": "rimba",
+  "currentSyllable": "ba",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
