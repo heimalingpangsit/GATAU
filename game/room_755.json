@@ -5,7 +5,7 @@
   "p1Lives": 3,
   "p2Lives": 2,
   "p1Strikes": 0,
-  "p2Strikes": 0,
+  "p2Strikes": 1,
   "p1Score": 6,
   "p2Score": 4,
   "chain": [
@@ -72,6 +72,11 @@
       "word": "woton",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "tono",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "woton",
