@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 1,
-  "p2Score": 0,
+  "p2Score": 1,
   "chain": [
     {
       "word": "pelaku",
@@ -17,11 +17,16 @@
       "word": "kutu",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "tuhan",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "kutu",
-  "currentSyllable": "tu",
-  "turnOf": "iyek",
+  "lastWord": "tuhan",
+  "currentSyllable": "han",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
