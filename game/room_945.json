@@ -8,18 +8,24 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 0,
+  "p1Score": 6,
   "p2Score": 0,
   "chain": [
     {
       "word": "setok",
       "by": "system"
+    },
+    {
+      "word": "toke",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 6
     }
   ],
-  "lastWord": "setok",
-  "currentSyllable": "tok",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775214425803,
+  "lastWord": "toke",
+  "currentSyllable": "ke",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775214435310,
   "startedAt": 1775214425803,
   "over": false,
   "winner": null,
