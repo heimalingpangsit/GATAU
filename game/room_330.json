@@ -6,9 +6,9 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1FirstWrong": true,
+  "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 121,
+  "p1Score": 131,
   "p2Score": 153,
   "chain": [
     {
@@ -211,12 +211,18 @@
       "word": "login",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "logistik",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 10
     }
   ],
-  "lastWord": "ginekolog",
-  "currentSyllable": "log",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775208210890,
+  "lastWord": "logistik",
+  "currentSyllable": "tik",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775208220183,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
