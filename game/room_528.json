@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 11,
+  "p1Score": 12,
   "p2Score": 11,
   "chain": [
     {
@@ -132,11 +132,16 @@
       "word": "gasak",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "sakit",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "gasak",
-  "currentSyllable": "sak",
-  "turnOf": "jepingac0r",
+  "lastWord": "sakit",
+  "currentSyllable": "kit",
+  "turnOf": "iyek",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
