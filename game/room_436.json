@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 84,
+  "p1Score": 95,
   "p2Score": 61,
   "chain": [
     {
@@ -126,12 +126,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 10
+    },
+    {
+      "word": "kangkung",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 11
     }
   ],
-  "lastWord": "kungkang",
-  "currentSyllable": "kang",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208887497,
+  "lastWord": "kangkung",
+  "currentSyllable": "kung",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208892461,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
