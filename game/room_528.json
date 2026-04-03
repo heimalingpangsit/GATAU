@@ -4,7 +4,7 @@
   "p2": "iyek",
   "p1Lives": 3,
   "p2Lives": 3,
-  "p1Strikes": 0,
+  "p1Strikes": 1,
   "p2Strikes": 0,
   "p1Score": 15,
   "p2Score": 15,
@@ -172,6 +172,11 @@
       "word": "huni",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "nikah",
+      "by": "jepingac0r",
+      "wrong": true
     }
   ],
   "lastWord": "huni",
