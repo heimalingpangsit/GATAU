@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 13,
-  "p2Score": 12,
+  "p2Score": 13,
   "chain": [
     {
       "word": "pelaku",
@@ -147,11 +147,16 @@
       "word": "tajam",
       "by": "jepingac0r",
       "wrong": false
+    },
+    {
+      "word": "jambul",
+      "by": "iyek",
+      "wrong": false
     }
   ],
-  "lastWord": "tajam",
-  "currentSyllable": "jam",
-  "turnOf": "iyek",
+  "lastWord": "jambul",
+  "currentSyllable": "bul",
+  "turnOf": "jepingac0r",
   "startedAt": 1775205389475,
   "over": false,
   "winner": null,
