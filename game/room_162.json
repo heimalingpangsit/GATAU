@@ -7,7 +7,7 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1Score": 2,
-  "p2Score": 1,
+  "p2Score": 2,
   "chain": [
     {
       "word": "nyontek",
@@ -32,11 +32,16 @@
       "word": "air",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "airan",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "air",
-  "currentSyllable": "air",
-  "turnOf": "jrki",
+  "lastWord": "airan",
+  "currentSyllable": "ran",
+  "turnOf": "jepingacor",
   "startedAt": 1775201970370,
   "over": false,
   "winner": null,
