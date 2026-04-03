@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 8,
+  "p1Score": 9,
   "p2Score": 8,
   "chain": [
     {
@@ -102,11 +102,16 @@
       "word": "paling",
       "by": "jepingacor",
       "wrong": false
+    },
+    {
+      "word": "linggis",
+      "by": "jrki",
+      "wrong": false
     }
   ],
-  "lastWord": "paling",
-  "currentSyllable": "ling",
-  "turnOf": "jrki",
+  "lastWord": "linggis",
+  "currentSyllable": "gis",
+  "turnOf": "jepingacor",
   "startedAt": 1775204462859,
   "over": false,
   "winner": null,
