@@ -213,7 +213,7 @@
   "currentSyllable": "tas",
   "turnOf": "iyek",
   "startedAt": 1775205389475,
-  "over": false,
-  "winner": null,
-  "winReason": null
+  "over": true,
+  "winner": "draw",
+  "winReason": "time"
 }
