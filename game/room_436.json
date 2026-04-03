@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 65,
+  "p1Score": 75,
   "p2Score": 45,
   "chain": [
     {
@@ -102,12 +102,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 8
+    },
+    {
+      "word": "gampret",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 10
     }
   ],
-  "lastWord": "rangga",
-  "currentSyllable": "ga",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208861085,
+  "lastWord": "gampret",
+  "currentSyllable": "ret",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208866946,
   "startedAt": 1775208744502,
   "over": false,
   "winner": null,
