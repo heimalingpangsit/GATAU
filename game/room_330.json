@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 44,
-  "p2Score": 46,
+  "p2Score": 55,
   "chain": [
     {
       "word": "mersik",
@@ -80,12 +80,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 10
+    },
+    {
+      "word": "ransel",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 9
     }
   ],
-  "lastWord": "tenggara",
-  "currentSyllable": "ra",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208068916,
+  "lastWord": "ransel",
+  "currentSyllable": "sel",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208074539,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
