@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 1,
-  "p2Score": 0,
+  "p2Score": 1,
   "chain": [
     {
       "word": "rancap",
@@ -19,11 +19,16 @@
       "word": "capung",
       "by": "jrki",
       "wrong": false
+    },
+    {
+      "word": "punggung",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "capung",
-  "currentSyllable": "pung",
-  "turnOf": "jepingac0r",
+  "lastWord": "punggung",
+  "currentSyllable": "gung",
+  "turnOf": "jrki",
   "startedAt": 1775206743080,
   "over": false,
   "winner": null,
