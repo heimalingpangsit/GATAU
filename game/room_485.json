@@ -6,7 +6,7 @@
   "p2Lives": 3,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 19,
+  "p1Score": 20,
   "p2Score": 19,
   "chain": [
     {
@@ -212,11 +212,16 @@
       "word": "nanda",
       "by": "iyek",
       "wrong": false
+    },
+    {
+      "word": "damai",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "nanda",
-  "currentSyllable": "da",
-  "turnOf": "jepingac0r",
+  "lastWord": "damai",
+  "currentSyllable": "ai",
+  "turnOf": "iyek",
   "startedAt": 1775205733638,
   "over": false,
   "winner": null,
