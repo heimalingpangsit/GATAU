@@ -6,7 +6,7 @@
   "p2Lives": 1,
   "p1Strikes": 0,
   "p2Strikes": 0,
-  "p1Score": 6,
+  "p1Score": 7,
   "p2Score": 4,
   "chain": [
     {
@@ -82,11 +82,16 @@
       "word": "tono",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "tongkonan",
+      "by": "jepingac0r",
+      "wrong": false
     }
   ],
-  "lastWord": "woton",
-  "currentSyllable": "ton",
-  "turnOf": "jepingac0r",
+  "lastWord": "tongkonan",
+  "currentSyllable": "nan",
+  "turnOf": "jrki",
   "startedAt": 1775205149502,
   "over": false,
   "winner": null,
