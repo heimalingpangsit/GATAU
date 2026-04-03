@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 114,
-  "p2Score": 132,
+  "p2Score": 142,
   "chain": [
     {
       "word": "mersik",
@@ -188,12 +188,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 10
+    },
+    {
+      "word": "sanding",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 10
     }
   ],
-  "lastWord": "yayasan",
-  "currentSyllable": "san",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775208189193,
+  "lastWord": "sanding",
+  "currentSyllable": "ding",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775208195031,
   "startedAt": 1775207989383,
   "over": false,
   "winner": null,
