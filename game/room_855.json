@@ -5,7 +5,7 @@
   "p1Lives": 2,
   "p2Lives": 1,
   "p1Strikes": 0,
-  "p2Strikes": 0,
+  "p2Strikes": 1,
   "p1Score": 5,
   "p2Score": 3,
   "chain": [
@@ -86,6 +86,11 @@
     {
       "word": "aihh",
       "by": "jepingacor",
+      "wrong": true
+    },
+    {
+      "word": "aihh",
+      "by": "jrki",
       "wrong": true
     }
   ],
