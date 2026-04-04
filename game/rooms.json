@@ -47,22 +47,5 @@
     "createdAt": 1775287711681,
     "rematchVotes": {},
     "guest": "jrki"
-  },
-  "971": {
-    "id": "971",
-    "name": "yh",
-    "host": "jepingac0r",
-    "players": [
-      "jepingac0r",
-      "jrki"
-    ],
-    "maxPlayers": 2,
-    "gameType": "tebak_gambar",
-    "countdown": 3,
-    "duration": 5,
-    "password": null,
-    "createdAt": 1775305143038,
-    "rematchVotes": {},
-    "guest": "jrki"
   }
 }
