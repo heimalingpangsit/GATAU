@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 108,
-  "p2Score": 57,
+  "p2Score": 64,
   "chain": [
     {
       "word": "olokal",
@@ -165,12 +165,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 10
+    },
+    {
+      "word": "panci",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 7
     }
   ],
-  "lastWord": "tongpan",
-  "currentSyllable": "pan",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775330364124,
+  "lastWord": "panci",
+  "currentSyllable": "ci",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775330371368,
   "startedAt": 1775330201578,
   "over": false,
   "winner": null,
