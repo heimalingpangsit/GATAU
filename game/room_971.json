@@ -15,9 +15,9 @@
   "totalRounds": 2,
   "currentWord": null,
   "wordOptions": [
-    "KACAMATA",
-    "TOPI",
-    "DASI"
+    "KUNCI",
+    "GITAR",
+    "KAMERA"
   ],
   "roundStartedAt": null,
   "roundDurationMs": 300000,
@@ -27,5 +27,5 @@
   "over": false,
   "finalWinner": null,
   "phase": "picking",
-  "startedAt": 1775305153226
+  "startedAt": 1775305155219
 }
