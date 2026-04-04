@@ -13,13 +13,13 @@
   "drawer": "jrki",
   "round": 1,
   "totalRounds": 2,
-  "currentWord": null,
+  "currentWord": "PABRIK",
   "wordOptions": [
     "JEMBATAN",
     "MENARA",
     "PABRIK"
   ],
-  "roundStartedAt": null,
+  "roundStartedAt": 1775328744133,
   "roundDurationMs": 60000,
   "durationMin": 5,
   "guessedBy": [],
@@ -27,6 +27,6 @@
   "chat": [],
   "over": false,
   "finalWinner": null,
-  "phase": "picking",
+  "phase": "drawing",
   "startedAt": 1775328741727
 }
