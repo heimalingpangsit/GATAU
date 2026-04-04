@@ -3,11 +3,11 @@
   "p1": "jepingac0r",
   "p2": "jrki",
   "p1Lives": 3,
-  "p2Lives": 1,
+  "p2Lives": 0,
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1FirstWrong": false,
-  "p2FirstWrong": true,
+  "p2FirstWrong": false,
   "p1Score": 137,
   "p2Score": 71,
   "chain": [
@@ -211,14 +211,19 @@
       "word": "gika",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "giku",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "nostalgik",
   "currentSyllable": "gik",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775330412228,
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775330426306,
   "startedAt": 1775330201578,
-  "over": false,
-  "winner": null,
-  "winReason": null
+  "over": true,
+  "winner": "jepingac0r",
+  "winReason": "lives"
 }
