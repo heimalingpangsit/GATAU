@@ -13,7 +13,9 @@
     "duration": null,
     "password": null,
     "createdAt": 1775330193161,
-    "rematchVotes": {},
+    "rematchVotes": {
+      "jrki": true
+    },
     "guest": "jrki"
   }
 }
