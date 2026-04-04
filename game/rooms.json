@@ -4,7 +4,8 @@
     "name": "o",
     "host": "jepingac0r",
     "players": [
-      "jepingac0r"
+      "jepingac0r",
+      "jrki"
     ],
     "maxPlayers": 2,
     "gameType": "sambung_kata",
@@ -12,6 +13,7 @@
     "duration": null,
     "password": null,
     "createdAt": 1775330193161,
-    "rematchVotes": {}
+    "rematchVotes": {},
+    "guest": "jrki"
   }
 }
