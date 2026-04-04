@@ -3,7 +3,7 @@
   "roomId": "730",
   "p1": "jepingac0r",
   "p2": "jrki",
-  "p1Wins": 0,
+  "p1Wins": 3,
   "p2Wins": 0,
   "round": 1,
   "maxRounds": 3,
@@ -13,7 +13,7 @@
   "lirikArtist": "Hindia",
   "p1Progress": 126,
   "p2Progress": 119,
-  "p1Done": false,
+  "p1Done": true,
   "p2Done": true,
   "p1FinishTime": null,
   "p2FinishTime": 1775307400842,
@@ -22,7 +22,7 @@
   "p1TotalTyped": 0,
   "p2TotalTyped": 120,
   "startedAt": 1775307288085,
-  "over": false,
-  "roundWinner": null,
-  "finalWinner": null
+  "over": true,
+  "roundWinner": "jepingac0r",
+  "finalWinner": "jepingac0r"
 }
