@@ -9,17 +9,17 @@
     "jrki": 0,
     "jepingac0r": 0
   },
-  "drawerIdx": 0,
-  "drawer": "jrki",
-  "round": 1,
+  "drawerIdx": 1,
+  "drawer": "jepingac0r",
+  "round": 2,
   "totalRounds": 2,
-  "currentWord": "HIU",
+  "currentWord": null,
   "wordOptions": [
-    "CUMI",
-    "UBUR-UBUR",
-    "HIU"
+    "JAMUR",
+    "WORTEL",
+    "BAWANG"
   ],
-  "roundStartedAt": 1775329053379,
+  "roundStartedAt": null,
   "roundDurationMs": 150000,
   "durationMin": 10,
   "guessedBy": [],
@@ -27,6 +27,6 @@
   "chat": [],
   "over": false,
   "finalWinner": null,
-  "phase": "drawing",
+  "phase": "picking",
   "startedAt": 1775329047870
 }
