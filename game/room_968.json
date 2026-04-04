@@ -14,8 +14,8 @@
   "guesser": "jrki",
   "round": 1,
   "totalRounds": 4,
-  "wordIdx": 19,
-  "currentWord": "DURIAN",
+  "wordIdx": 10,
+  "currentWord": "RENDANG",
   "currentCategory": "Makanan",
   "questionCount": 0,
   "maxQuestions": 20,
@@ -28,5 +28,5 @@
   "phase": "playing",
   "over": false,
   "finalWinner": null,
-  "startedAt": 1775329999957
+  "startedAt": 1775330002097
 }
