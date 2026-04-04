@@ -33,12 +33,8 @@
       "time": 1775332069837
     }
   ],
-  "pendingQuestion": {
-    "text": "kartini",
-    "askedBy": "jrki",
-    "time": 1775332066411
-  },
-  "pendingAnswer": "bukan",
+  "pendingQuestion": null,
+  "pendingAnswer": null,
   "guessResult": null,
   "phase": "playing",
   "over": false,
