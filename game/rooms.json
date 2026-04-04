@@ -47,5 +47,20 @@
     "createdAt": 1775287711681,
     "rematchVotes": {},
     "guest": "jrki"
+  },
+  "726": {
+    "id": "726",
+    "name": "puki",
+    "host": "jepingac0r",
+    "players": [
+      "jepingac0r"
+    ],
+    "maxPlayers": 2,
+    "gameType": "tictactoe",
+    "countdown": 3,
+    "duration": null,
+    "password": null,
+    "createdAt": 1775305211386,
+    "rematchVotes": {}
   }
 }
