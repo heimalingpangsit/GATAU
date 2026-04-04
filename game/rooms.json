@@ -1,1 +1,17 @@
-{}
+{
+  "281": {
+    "id": "281",
+    "name": "oj",
+    "host": "jrki",
+    "players": [
+      "jrki"
+    ],
+    "maxPlayers": 2,
+    "gameType": "tebak_gambar",
+    "countdown": 3,
+    "duration": 5,
+    "password": null,
+    "createdAt": 1775328734827,
+    "rematchVotes": {}
+  }
+}
