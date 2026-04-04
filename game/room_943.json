@@ -6,8 +6,8 @@
     "jrki"
   ],
   "scores": {
-    "jepingac0r": 0,
-    "jrki": 0
+    "jepingac0r": 2,
+    "jrki": 15
   },
   "answererIdx": 0,
   "answerer": "jepingac0r",
@@ -44,10 +44,17 @@
     "time": 1775332079886
   },
   "pendingAnswer": "ya",
-  "guessResult": null,
-  "phase": "playing",
+  "guessResult": "benar",
+  "phase": "roundover",
   "over": false,
   "finalWinner": null,
   "startedAt": 1775332039768,
-  "_answerShown": false
+  "_answerShown": false,
+  "revealedWord": "RA KARTINI",
+  "revealedRound": 1,
+  "revealedResult": "benar",
+  "revealedScores": {
+    "jepingac0r": 2,
+    "jrki": 15
+  }
 }
