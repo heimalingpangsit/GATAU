@@ -8,7 +8,7 @@
   "board": [
     null,
     null,
-    "X",
+    null,
     null,
     null,
     null,
@@ -16,11 +16,11 @@
     null,
     null
   ],
-  "turnOf": "jrki",
+  "turnOf": "jepingac0r",
   "round": 1,
   "over": false,
   "roundOver": false,
   "roundWinner": null,
   "finalWinner": null,
-  "startedAt": 1775287737199
+  "startedAt": 1775287785213
 }
