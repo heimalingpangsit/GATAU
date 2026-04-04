@@ -28,12 +28,16 @@
       "time": 1775330021350
     }
   ],
-  "pendingQuestion": null,
+  "pendingQuestion": {
+    "text": "rendang",
+    "askedBy": "jrki",
+    "time": 1775330030538
+  },
   "pendingAnswer": null,
   "guessResult": null,
   "phase": "playing",
   "over": false,
   "finalWinner": null,
   "startedAt": 1775330002097,
-  "_answerShown": false
+  "_answerShown": true
 }
