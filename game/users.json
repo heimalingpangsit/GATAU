@@ -3,5 +3,10 @@
     "username": "risqimon",
     "passwordHash": "db78fce86c38b8b9204cbb5b49fe1b7d",
     "createdAt": 1775260887531
+  },
+  "jrki": {
+    "username": "jrki",
+    "passwordHash": "095426367387ac9459de05eb3cf0cccb",
+    "createdAt": 1775287732188
   }
 }
