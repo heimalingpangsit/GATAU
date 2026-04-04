@@ -25,8 +25,9 @@
   "guessedBy": [],
   "strokes": [],
   "chat": [],
-  "over": false,
+  "over": true,
   "finalWinner": null,
   "phase": "picking",
-  "startedAt": 1775329957025
+  "startedAt": 1775329957025,
+  "winReason": "forfeit"
 }
