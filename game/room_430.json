@@ -8,18 +8,24 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 0,
+  "p1Score": 10,
   "p2Score": 0,
   "chain": [
     {
       "word": "olokal",
       "by": "system"
+    },
+    {
+      "word": "kalazion",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 10
     }
   ],
-  "lastWord": "olokal",
-  "currentSyllable": "kal",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775330201578,
+  "lastWord": "kalazion",
+  "currentSyllable": "ion",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775330211580,
   "startedAt": 1775330201578,
   "over": false,
   "winner": null,
