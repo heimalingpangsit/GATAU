@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 69,
+  "p1Score": 75,
   "p2Score": 36,
   "chain": [
     {
@@ -111,12 +111,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 5
+    },
+    {
+      "word": "gur",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 6
     }
   ],
-  "lastWord": "gugur",
+  "lastWord": "gur",
   "currentSyllable": "gur",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775330315525,
+  "turnOf": "jrki",
+  "turnStartedAt": 1775330316134,
   "startedAt": 1775330201578,
   "over": false,
   "winner": null,
