@@ -17,17 +17,23 @@
   "wordIdx": 10,
   "currentWord": "RENDANG",
   "currentCategory": "Makanan",
-  "questionCount": 0,
+  "questionCount": 1,
   "maxQuestions": 20,
   "roundDurationMs": 180000,
   "roundStartedAt": 1775330017741,
-  "qaLog": [],
+  "qaLog": [
+    {
+      "q": "apakah makanan",
+      "a": "ya",
+      "time": 1775330021350
+    }
+  ],
   "pendingQuestion": {
     "text": "apakah makanan",
     "askedBy": "jrki",
     "time": 1775330017741
   },
-  "pendingAnswer": null,
+  "pendingAnswer": "ya",
   "guessResult": null,
   "phase": "playing",
   "over": false,
