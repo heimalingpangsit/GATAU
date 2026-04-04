@@ -17,7 +17,7 @@
   "wordIdx": 34,
   "currentWord": "RA KARTINI",
   "currentCategory": "Tokoh",
-  "questionCount": 1,
+  "questionCount": 2,
   "maxQuestions": 20,
   "roundDurationMs": 180000,
   "roundStartedAt": 1775332049422,
@@ -26,6 +26,11 @@
       "q": "kartini",
       "a": "ya",
       "time": 1775332050270
+    },
+    {
+      "q": "kartini",
+      "a": "bukan",
+      "time": 1775332069837
     }
   ],
   "pendingQuestion": {
@@ -33,7 +38,7 @@
     "askedBy": "jrki",
     "time": 1775332066411
   },
-  "pendingAnswer": null,
+  "pendingAnswer": "bukan",
   "guessResult": null,
   "phase": "playing",
   "over": false,
