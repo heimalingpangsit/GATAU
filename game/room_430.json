@@ -7,9 +7,9 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1FirstWrong": false,
-  "p2FirstWrong": true,
+  "p2FirstWrong": false,
   "p1Score": 91,
-  "p2Score": 46,
+  "p2Score": 52,
   "chain": [
     {
       "word": "olokal",
@@ -143,15 +143,16 @@
       "pts": 9
     },
     {
-      "word": "kitw",
+      "word": "kita",
       "by": "jrki",
-      "wrong": true
+      "wrong": false,
+      "pts": 5
     }
   ],
-  "lastWord": "rumkit",
-  "currentSyllable": "kit",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775330339386,
+  "lastWord": "kita",
+  "currentSyllable": "ta",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775330350630,
   "startedAt": 1775330201578,
   "over": false,
   "winner": null,
