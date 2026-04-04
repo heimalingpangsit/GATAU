@@ -13,13 +13,13 @@
   "drawer": "jrki",
   "round": 1,
   "totalRounds": 2,
-  "currentWord": null,
+  "currentWord": "HIU",
   "wordOptions": [
-    "PIRING",
-    "SENDOK",
-    "GARPU"
+    "CUMI",
+    "UBUR-UBUR",
+    "HIU"
   ],
-  "roundStartedAt": null,
+  "roundStartedAt": 1775329053379,
   "roundDurationMs": 150000,
   "durationMin": 10,
   "guessedBy": [],
@@ -27,6 +27,6 @@
   "chat": [],
   "over": false,
   "finalWinner": null,
-  "phase": "picking",
-  "startedAt": 1775329046560
+  "phase": "drawing",
+  "startedAt": 1775329047870
 }
