@@ -14,8 +14,8 @@
   "guesser": "jrki",
   "round": 1,
   "totalRounds": 4,
-  "wordIdx": 32,
-  "currentWord": "B.J. HABIBIE",
+  "wordIdx": 34,
+  "currentWord": "RA KARTINI",
   "currentCategory": "Tokoh",
   "questionCount": 0,
   "maxQuestions": 20,
@@ -28,5 +28,5 @@
   "phase": "playing",
   "over": false,
   "finalWinner": null,
-  "startedAt": 1775332038392
+  "startedAt": 1775332039768
 }
