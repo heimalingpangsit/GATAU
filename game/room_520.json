@@ -20,9 +20,13 @@
   "questionCount": 0,
   "maxQuestions": 20,
   "roundDurationMs": 180000,
-  "roundStartedAt": null,
+  "roundStartedAt": 1775331300469,
   "qaLog": [],
-  "pendingQuestion": null,
+  "pendingQuestion": {
+    "text": "duta besar",
+    "askedBy": "jrki",
+    "time": 1775331300469
+  },
   "pendingAnswer": null,
   "guessResult": null,
   "phase": "playing",
