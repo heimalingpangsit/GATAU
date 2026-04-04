@@ -13,26 +13,19 @@
   "drawer": "jrki",
   "round": 2,
   "totalRounds": 2,
-  "currentWord": null,
+  "currentWord": "AWAN",
   "wordOptions": [
     "AWAN",
     "HUJAN",
     "PETIR"
   ],
-  "roundStartedAt": null,
+  "roundStartedAt": 1775287897758,
   "roundDurationMs": 300000,
   "guessedBy": [],
   "strokes": [],
-  "chat": [
-    {
-      "user": "jrki",
-      "text": "pizza",
-      "correct": true,
-      "time": 1775287893564
-    }
-  ],
+  "chat": [],
   "over": false,
   "finalWinner": null,
-  "phase": "picking",
+  "phase": "drawing",
   "startedAt": 1775287845675
 }
