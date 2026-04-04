@@ -1,1 +1,17 @@
-{}
+{
+  "730": {
+    "id": "730",
+    "name": "o",
+    "host": "jepingac0r",
+    "players": [
+      "jepingac0r"
+    ],
+    "maxPlayers": 2,
+    "gameType": "balapan_ketik",
+    "countdown": 10,
+    "duration": null,
+    "password": null,
+    "createdAt": 1775307266153,
+    "rematchVotes": {}
+  }
+}
