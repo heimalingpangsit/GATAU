@@ -13,19 +13,19 @@
   "drawer": "jepingac0r",
   "round": 1,
   "totalRounds": 2,
-  "currentWord": null,
+  "currentWord": "KAMERA",
   "wordOptions": [
     "KUNCI",
     "GITAR",
     "KAMERA"
   ],
-  "roundStartedAt": null,
+  "roundStartedAt": 1775305158617,
   "roundDurationMs": 300000,
   "guessedBy": [],
   "strokes": [],
   "chat": [],
   "over": false,
   "finalWinner": null,
-  "phase": "picking",
+  "phase": "drawing",
   "startedAt": 1775305155219
 }
