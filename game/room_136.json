@@ -15,9 +15,9 @@
   "totalRounds": 2,
   "currentWord": null,
   "wordOptions": [
-    "POHON",
-    "KUCING",
-    "APEL"
+    "PIZZA",
+    "KOPI",
+    "ROTI"
   ],
   "roundStartedAt": null,
   "roundDurationMs": 300000,
@@ -27,5 +27,5 @@
   "over": false,
   "finalWinner": null,
   "phase": "picking",
-  "startedAt": 1775287843858
+  "startedAt": 1775287845675
 }
