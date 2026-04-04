@@ -16,5 +16,20 @@
     "rematchVotes": {},
     "guest": "jrki",
     "guestForfeited": true
+  },
+  "823": {
+    "id": "823",
+    "name": "t",
+    "host": "jepingac0r",
+    "players": [
+      "jepingac0r"
+    ],
+    "maxPlayers": 2,
+    "gameType": "tebak_kata",
+    "countdown": 3,
+    "duration": 10,
+    "password": null,
+    "createdAt": 1775331718163,
+    "rematchVotes": {}
   }
 }
