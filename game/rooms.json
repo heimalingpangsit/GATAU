@@ -4,7 +4,8 @@
     "name": "yh",
     "host": "jepingac0r",
     "players": [
-      "jepingac0r"
+      "jepingac0r",
+      "jrki"
     ],
     "maxPlayers": 2,
     "gameType": "tebak_gambar",
@@ -12,6 +13,7 @@
     "duration": 10,
     "password": null,
     "createdAt": 1775306320108,
-    "rematchVotes": {}
+    "rematchVotes": {},
+    "guest": "jrki"
   }
 }
