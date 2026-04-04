@@ -18,9 +18,10 @@
   ],
   "turnOf": "jepingac0r",
   "round": 1,
-  "over": false,
+  "over": true,
   "roundOver": false,
   "roundWinner": null,
-  "finalWinner": null,
-  "startedAt": 1775305427425
+  "finalWinner": "jrki",
+  "startedAt": 1775305427425,
+  "winReason": "forfeit"
 }
