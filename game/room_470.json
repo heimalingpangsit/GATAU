@@ -13,13 +13,13 @@
   "drawer": "jepingac0r",
   "round": 1,
   "totalRounds": 2,
-  "currentWord": null,
+  "currentWord": "API",
   "wordOptions": [
     "API",
     "ES",
     "ANGIN"
   ],
-  "roundStartedAt": null,
+  "roundStartedAt": 1775328361997,
   "roundDurationMs": 60000,
   "durationMin": 5,
   "guessedBy": [],
@@ -27,6 +27,6 @@
   "chat": [],
   "over": false,
   "finalWinner": null,
-  "phase": "picking",
+  "phase": "drawing",
   "startedAt": 1775328358289
 }
