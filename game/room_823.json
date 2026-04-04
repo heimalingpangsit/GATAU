@@ -1,0 +1,32 @@
+{
+  "type": "tebak_kata",
+  "roomId": "823",
+  "players": [
+    "jepingac0r",
+    "jrki"
+  ],
+  "scores": {
+    "jepingac0r": 0,
+    "jrki": 0
+  },
+  "answererIdx": 0,
+  "answerer": "jepingac0r",
+  "guesser": "jrki",
+  "round": 1,
+  "totalRounds": 4,
+  "wordIdx": 30,
+  "currentWord": "JOKOWI",
+  "currentCategory": "Tokoh",
+  "questionCount": 0,
+  "maxQuestions": 20,
+  "roundDurationMs": 180000,
+  "roundStartedAt": null,
+  "qaLog": [],
+  "pendingQuestion": null,
+  "pendingAnswer": null,
+  "guessResult": null,
+  "phase": "playing",
+  "over": false,
+  "finalWinner": null,
+  "startedAt": 1775331730551
+}
