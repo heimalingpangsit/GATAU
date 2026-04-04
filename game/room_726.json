@@ -6,7 +6,7 @@
   "p1Pts": 1,
   "p2Pts": 0,
   "board": [
-    null,
+    "O",
     null,
     null,
     null,
@@ -16,7 +16,7 @@
     null,
     null
   ],
-  "turnOf": "jrki",
+  "turnOf": "jepingac0r",
   "round": 2,
   "over": false,
   "roundOver": false,
