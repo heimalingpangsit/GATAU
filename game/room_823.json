@@ -20,9 +20,13 @@
   "questionCount": 0,
   "maxQuestions": 20,
   "roundDurationMs": 180000,
-  "roundStartedAt": null,
+  "roundStartedAt": 1775331741144,
   "qaLog": [],
-  "pendingQuestion": null,
+  "pendingQuestion": {
+    "text": "jokowi",
+    "askedBy": "jrki",
+    "time": 1775331741143
+  },
   "pendingAnswer": null,
   "guessResult": null,
   "phase": "playing",
