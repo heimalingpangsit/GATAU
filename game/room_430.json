@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 82,
+  "p1Score": 91,
   "p2Score": 47,
   "chain": [
     {
@@ -135,12 +135,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 6
+    },
+    {
+      "word": "rumkit",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 9
     }
   ],
-  "lastWord": "tiru",
-  "currentSyllable": "ru",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775330339000,
+  "lastWord": "rumkit",
+  "currentSyllable": "kit",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775330339386,
   "startedAt": 1775330201578,
   "over": false,
   "winner": null,
