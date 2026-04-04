@@ -1,1 +1,17 @@
-{}
+{
+  "222": {
+    "id": "222",
+    "name": ".",
+    "host": "jrki",
+    "players": [
+      "jrki"
+    ],
+    "maxPlayers": 2,
+    "gameType": "tebak_gambar",
+    "countdown": 3,
+    "duration": 10,
+    "password": null,
+    "createdAt": 1775329040823,
+    "rematchVotes": {}
+  }
+}
