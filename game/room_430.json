@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 91,
+  "p1Score": 98,
   "p2Score": 52,
   "chain": [
     {
@@ -147,12 +147,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 5
+    },
+    {
+      "word": "taut",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 7
     }
   ],
-  "lastWord": "kita",
-  "currentSyllable": "ta",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775330350630,
+  "lastWord": "taut",
+  "currentSyllable": "aut",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775330350476,
   "startedAt": 1775330201578,
   "over": false,
   "winner": null,
