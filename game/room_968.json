@@ -20,9 +20,13 @@
   "questionCount": 0,
   "maxQuestions": 20,
   "roundDurationMs": 180000,
-  "roundStartedAt": null,
+  "roundStartedAt": 1775330017741,
   "qaLog": [],
-  "pendingQuestion": null,
+  "pendingQuestion": {
+    "text": "apakah makanan",
+    "askedBy": "jrki",
+    "time": 1775330017741
+  },
   "pendingAnswer": null,
   "guessResult": null,
   "phase": "playing",
