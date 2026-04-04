@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 125,
+  "p1Score": 137,
   "p2Score": 72,
   "chain": [
     {
@@ -200,12 +200,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 5
+    },
+    {
+      "word": "nostalgik",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 12
     }
   ],
-  "lastWord": "kano",
-  "currentSyllable": "no",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775330409758,
+  "lastWord": "nostalgik",
+  "currentSyllable": "gik",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775330412228,
   "startedAt": 1775330201578,
   "over": false,
   "winner": null,
