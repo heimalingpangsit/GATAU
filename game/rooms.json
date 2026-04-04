@@ -19,8 +19,7 @@
     "name": "pler",
     "host": "jepingac0r",
     "players": [
-      "jepingac0r",
-      "jrki"
+      "jepingac0r"
     ],
     "maxPlayers": 2,
     "gameType": "tictactoe",
@@ -29,6 +28,6 @@
     "password": null,
     "createdAt": 1775287711681,
     "rematchVotes": {},
-    "guest": "jrki"
+    "guest": null
   }
 }
