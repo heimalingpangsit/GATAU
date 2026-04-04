@@ -13,13 +13,13 @@
   "drawer": "jepingac0r",
   "round": 1,
   "totalRounds": 2,
-  "currentWord": null,
+  "currentWord": "KAPAL",
   "wordOptions": [
     "PESAWAT",
     "KAPAL",
     "BUAYA"
   ],
-  "roundStartedAt": null,
+  "roundStartedAt": 1775306330848,
   "roundDurationMs": 150000,
   "durationMin": 10,
   "guessedBy": [],
@@ -27,6 +27,6 @@
   "chat": [],
   "over": false,
   "finalWinner": null,
-  "phase": "picking",
+  "phase": "drawing",
   "startedAt": 1775306327196
 }
