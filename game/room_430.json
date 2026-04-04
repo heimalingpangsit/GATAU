@@ -7,9 +7,9 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1FirstWrong": false,
-  "p2FirstWrong": true,
+  "p2FirstWrong": false,
   "p1Score": 69,
-  "p2Score": 31,
+  "p2Score": 36,
   "chain": [
     {
       "word": "olokal",
@@ -105,12 +105,18 @@
       "word": "gumar",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "gugur",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 5
     }
   ],
-  "lastWord": "ganggu",
-  "currentSyllable": "gu",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775330293959,
+  "lastWord": "gugur",
+  "currentSyllable": "gur",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775330315525,
   "startedAt": 1775330201578,
   "over": false,
   "winner": null,
