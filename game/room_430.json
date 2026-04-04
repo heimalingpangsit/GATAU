@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 98,
+  "p1Score": 108,
   "p2Score": 57,
   "chain": [
     {
@@ -159,12 +159,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 5
+    },
+    {
+      "word": "tongpan",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 10
     }
   ],
-  "lastWord": "auto",
-  "currentSyllable": "to",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775330362146,
+  "lastWord": "tongpan",
+  "currentSyllable": "pan",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775330364124,
   "startedAt": 1775330201578,
   "over": false,
   "winner": null,
