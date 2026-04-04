@@ -1,1 +1,17 @@
-{}
+{
+  "520": {
+    "id": "520",
+    "name": "y",
+    "host": "jepingac0r",
+    "players": [
+      "jepingac0r"
+    ],
+    "maxPlayers": 2,
+    "gameType": "tebak_kata",
+    "countdown": 3,
+    "duration": 10,
+    "password": null,
+    "createdAt": 1775331274000,
+    "rematchVotes": {}
+  }
+}
