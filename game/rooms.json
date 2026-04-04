@@ -4,7 +4,8 @@
     "name": "y",
     "host": "jepingac0r",
     "players": [
-      "jepingac0r"
+      "jepingac0r",
+      "jrki"
     ],
     "maxPlayers": 2,
     "gameType": "tebak_kata",
@@ -12,6 +13,7 @@
     "duration": 10,
     "password": null,
     "createdAt": 1775331274000,
-    "rematchVotes": {}
+    "rematchVotes": {},
+    "guest": "jrki"
   }
 }
