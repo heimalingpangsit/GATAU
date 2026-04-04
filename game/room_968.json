@@ -17,7 +17,7 @@
   "wordIdx": 10,
   "currentWord": "RENDANG",
   "currentCategory": "Makanan",
-  "questionCount": 2,
+  "questionCount": 3,
   "maxQuestions": 20,
   "roundDurationMs": 180000,
   "roundStartedAt": 1775330017741,
@@ -31,6 +31,11 @@
       "q": "rendang",
       "a": "ya",
       "time": 1775330029562
+    },
+    {
+      "q": "rendang",
+      "a": "bukan",
+      "time": 1775330052013
     }
   ],
   "pendingQuestion": {
@@ -38,7 +43,7 @@
     "askedBy": "jrki",
     "time": 1775330051420
   },
-  "pendingAnswer": null,
+  "pendingAnswer": "bukan",
   "guessResult": null,
   "phase": "playing",
   "over": false,
