@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 75,
+  "p1Score": 82,
   "p2Score": 41,
   "chain": [
     {
@@ -123,12 +123,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 5
+    },
+    {
+      "word": "ruti",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 7
     }
   ],
-  "lastWord": "guru",
-  "currentSyllable": "ru",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775330330988,
+  "lastWord": "ruti",
+  "currentSyllable": "ti",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775330331820,
   "startedAt": 1775330201578,
   "over": false,
   "winner": null,
