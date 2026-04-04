@@ -19,12 +19,14 @@
     "name": "jawa",
     "host": "jepingac0r",
     "players": [
-      "jepingac0r"
+      "jepingac0r",
+      "risqimon"
     ],
     "maxPlayers": 2,
     "gameType": "balapan_ketik",
     "password": null,
     "createdAt": 1775260767440,
-    "rematchVotes": {}
+    "rematchVotes": {},
+    "guest": "risqimon"
   }
 }
