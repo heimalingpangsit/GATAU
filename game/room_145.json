@@ -13,13 +13,13 @@
   "drawer": "jepingac0r",
   "round": 1,
   "totalRounds": 2,
-  "currentWord": null,
+  "currentWord": "BOLA",
   "wordOptions": [
-    "MOBIL",
-    "RUMAH",
-    "IKAN"
+    "BUNGA",
+    "BUKU",
+    "BOLA"
   ],
-  "roundStartedAt": null,
+  "roundStartedAt": 1775307232211,
   "roundDurationMs": 150000,
   "durationMin": 10,
   "guessedBy": [],
@@ -27,6 +27,6 @@
   "chat": [],
   "over": false,
   "finalWinner": null,
-  "phase": "picking",
-  "startedAt": 1775307229449
+  "phase": "drawing",
+  "startedAt": 1775307230750
 }
