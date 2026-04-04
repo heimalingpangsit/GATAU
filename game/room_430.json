@@ -9,7 +9,7 @@
   "p1FirstWrong": false,
   "p2FirstWrong": false,
   "p1Score": 27,
-  "p2Score": 0,
+  "p2Score": 8,
   "chain": [
     {
       "word": "olokal",
@@ -52,12 +52,18 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 11
+    },
+    {
+      "word": "firaun",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 8
     }
   ],
-  "lastWord": "ionosfir",
-  "currentSyllable": "fir",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775330247797,
+  "lastWord": "firaun",
+  "currentSyllable": "aun",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775330257273,
   "startedAt": 1775330201578,
   "over": false,
   "winner": null,
