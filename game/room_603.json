@@ -1,0 +1,26 @@
+{
+  "type": "tictactoe",
+  "roomId": "603",
+  "p1": "jepingac0r",
+  "p2": "jrki",
+  "p1Pts": 0,
+  "p2Pts": 0,
+  "board": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "turnOf": "jepingac0r",
+  "round": 1,
+  "over": false,
+  "roundOver": false,
+  "roundWinner": null,
+  "finalWinner": null,
+  "startedAt": 1775287737199
+}
