@@ -6,55 +6,32 @@
     "jrki"
   ],
   "scores": {
-    "jepingac0r": 2,
-    "jrki": 15
+    "jepingac0r": 0,
+    "jrki": 0
   },
-  "answererIdx": 0,
-  "answerer": "jepingac0r",
-  "guesser": "jrki",
-  "round": 1,
+  "answererIdx": 1,
+  "answerer": "jrki",
+  "guesser": "jepingac0r",
+  "round": 2,
   "totalRounds": 4,
-  "wordIdx": 34,
-  "currentWord": "RA KARTINI",
+  "wordIdx": 33,
+  "currentWord": "CHAIRIL ANWAR",
   "currentCategory": "Tokoh",
-  "questionCount": 3,
+  "questionCount": 0,
   "maxQuestions": 20,
   "roundDurationMs": 180000,
-  "roundStartedAt": 1775332049422,
-  "qaLog": [
-    {
-      "q": "kartini",
-      "a": "ya",
-      "time": 1775332050270
-    },
-    {
-      "q": "kartini",
-      "a": "bukan",
-      "time": 1775332069837
-    },
-    {
-      "q": "RA KARTINI",
-      "a": "ya",
-      "time": 1775332078263
-    }
-  ],
-  "pendingQuestion": {
-    "text": "RA KARTINI",
-    "askedBy": "jrki",
-    "time": 1775332079886
-  },
-  "pendingAnswer": "ya",
-  "guessResult": "benar",
-  "phase": "roundover",
+  "roundStartedAt": null,
+  "qaLog": [],
+  "pendingQuestion": null,
+  "pendingAnswer": null,
+  "guessResult": null,
+  "phase": "playing",
   "over": false,
   "finalWinner": null,
   "startedAt": 1775332039768,
   "_answerShown": false,
-  "revealedWord": "RA KARTINI",
-  "revealedRound": 1,
-  "revealedResult": "benar",
-  "revealedScores": {
-    "jepingac0r": 2,
-    "jrki": 15
-  }
+  "revealedWord": null,
+  "revealedRound": null,
+  "revealedResult": null,
+  "revealedScores": null
 }
