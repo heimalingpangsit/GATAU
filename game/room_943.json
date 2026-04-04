@@ -28,7 +28,11 @@
       "time": 1775332050270
     }
   ],
-  "pendingQuestion": null,
+  "pendingQuestion": {
+    "text": "kartini",
+    "askedBy": "jrki",
+    "time": 1775332066411
+  },
   "pendingAnswer": null,
   "guessResult": null,
   "phase": "playing",
