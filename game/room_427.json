@@ -6,27 +6,34 @@
     "jrki"
   ],
   "scores": {
-    "jepingac0r": 0,
-    "jrki": 0
+    "jepingac0r": 3,
+    "jrki": 10
   },
-  "drawerIdx": 0,
-  "drawer": "jepingac0r",
-  "round": 1,
+  "drawerIdx": 1,
+  "drawer": "jrki",
+  "round": 2,
   "totalRounds": 2,
-  "currentWord": "API",
+  "currentWord": null,
   "wordOptions": [
-    "API",
-    "ES",
-    "ANGIN"
+    "AWAN",
+    "HUJAN",
+    "PETIR"
   ],
-  "roundStartedAt": 1775306270878,
+  "roundStartedAt": null,
   "roundDurationMs": 60000,
   "durationMin": 5,
   "guessedBy": [],
   "strokes": [],
-  "chat": [],
+  "chat": [
+    {
+      "user": "jrki",
+      "text": "api",
+      "correct": true,
+      "time": 1775306307418
+    }
+  ],
   "over": false,
   "finalWinner": null,
-  "phase": "drawing",
+  "phase": "picking",
   "startedAt": 1775306268168
 }
