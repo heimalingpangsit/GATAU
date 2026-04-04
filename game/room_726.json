@@ -8,7 +8,7 @@
   "board": [
     null,
     null,
-    null,
+    "O",
     "X",
     null,
     null,
@@ -16,7 +16,7 @@
     null,
     null
   ],
-  "turnOf": "jrki",
+  "turnOf": "jepingac0r",
   "round": 1,
   "over": false,
   "roundOver": false,
