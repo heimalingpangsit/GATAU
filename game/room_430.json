@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 10,
+  "p1Score": 16,
   "p2Score": 0,
   "chain": [
     {
@@ -30,12 +30,18 @@
       "word": "iona",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "ion",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 6
     }
   ],
-  "lastWord": "kalazion",
+  "lastWord": "ion",
   "currentSyllable": "ion",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775330225966,
+  "turnOf": "jrki",
+  "turnStartedAt": 1775330228431,
   "startedAt": 1775330201578,
   "over": false,
   "winner": null,
