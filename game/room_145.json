@@ -15,9 +15,9 @@
   "totalRounds": 2,
   "currentWord": null,
   "wordOptions": [
-    "PIRING",
-    "SENDOK",
-    "GARPU"
+    "MOBIL",
+    "RUMAH",
+    "IKAN"
   ],
   "roundStartedAt": null,
   "roundDurationMs": 150000,
@@ -28,5 +28,5 @@
   "over": false,
   "finalWinner": null,
   "phase": "picking",
-  "startedAt": 1775307225228
+  "startedAt": 1775307229449
 }
