@@ -7,9 +7,9 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1FirstWrong": false,
-  "p2FirstWrong": true,
+  "p2FirstWrong": false,
   "p1Score": 125,
-  "p2Score": 67,
+  "p2Score": 72,
   "chain": [
     {
       "word": "olokal",
@@ -194,12 +194,18 @@
       "word": "kanpa",
       "by": "jrki",
       "wrong": true
+    },
+    {
+      "word": "kano",
+      "by": "jrki",
+      "wrong": false,
+      "pts": 5
     }
   ],
-  "lastWord": "inikan",
-  "currentSyllable": "kan",
-  "turnOf": "jrki",
-  "turnStartedAt": 1775330389699,
+  "lastWord": "kano",
+  "currentSyllable": "no",
+  "turnOf": "jepingac0r",
+  "turnStartedAt": 1775330409758,
   "startedAt": 1775330201578,
   "over": false,
   "winner": null,
