@@ -3,7 +3,7 @@
   "roomId": "726",
   "p1": "jepingac0r",
   "p2": "jrki",
-  "p1Pts": 0,
+  "p1Pts": 1,
   "p2Pts": 0,
   "board": [
     "O",
@@ -13,14 +13,14 @@
     "X",
     "O",
     "O",
-    null,
+    "X",
     "X"
   ],
   "turnOf": "jepingac0r",
   "round": 1,
   "over": false,
-  "roundOver": false,
-  "roundWinner": null,
+  "roundOver": true,
+  "roundWinner": "jepingac0r",
   "finalWinner": null,
   "startedAt": 1775305222853
 }
