@@ -15,9 +15,9 @@
   "totalRounds": 2,
   "currentWord": null,
   "wordOptions": [
-    "KUNCI",
-    "GITAR",
-    "KAMERA"
+    "API",
+    "ES",
+    "ANGIN"
   ],
   "roundStartedAt": null,
   "roundDurationMs": 60000,
@@ -28,5 +28,5 @@
   "over": false,
   "finalWinner": null,
   "phase": "picking",
-  "startedAt": 1775306266411
+  "startedAt": 1775306268168
 }
