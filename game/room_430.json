@@ -8,7 +8,7 @@
   "p2Strikes": 0,
   "p1FirstWrong": false,
   "p2FirstWrong": false,
-  "p1Score": 116,
+  "p1Score": 125,
   "p2Score": 68,
   "chain": [
     {
@@ -183,12 +183,18 @@
       "by": "jrki",
       "wrong": false,
       "pts": 4
+    },
+    {
+      "word": "inikan",
+      "by": "jepingac0r",
+      "wrong": false,
+      "pts": 9
     }
   ],
-  "lastWord": "uin",
-  "currentSyllable": "in",
-  "turnOf": "jepingac0r",
-  "turnStartedAt": 1775330386994,
+  "lastWord": "inikan",
+  "currentSyllable": "kan",
+  "turnOf": "jrki",
+  "turnStartedAt": 1775330389699,
   "startedAt": 1775330201578,
   "over": false,
   "winner": null,
