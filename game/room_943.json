@@ -33,7 +33,11 @@
       "time": 1775332069837
     }
   ],
-  "pendingQuestion": null,
+  "pendingQuestion": {
+    "text": "RA KARTINI",
+    "askedBy": "jrki",
+    "time": 1775332079886
+  },
   "pendingAnswer": null,
   "guessResult": null,
   "phase": "playing",
