@@ -6,37 +6,29 @@
     "jrki"
   ],
   "scores": {
-    "jepingac0r": 0,
-    "jrki": 0
+    "jepingac0r": 2,
+    "jrki": 15
   },
-  "answererIdx": 0,
-  "answerer": "jepingac0r",
-  "guesser": "jrki",
-  "round": 1,
+  "answererIdx": 1,
+  "answerer": "jrki",
+  "guesser": "jepingac0r",
+  "round": 2,
   "totalRounds": 4,
-  "wordIdx": 30,
-  "currentWord": "JOKOWI",
-  "currentCategory": "Tokoh",
-  "questionCount": 1,
+  "wordIdx": 23,
+  "currentWord": "ORANGUTAN",
+  "currentCategory": "Hewan",
+  "questionCount": 0,
   "maxQuestions": 20,
   "roundDurationMs": 180000,
-  "roundStartedAt": 1775331741144,
-  "qaLog": [
-    {
-      "q": "jokowi",
-      "a": "ya",
-      "time": 1775331741635
-    }
-  ],
-  "pendingQuestion": {
-    "text": "jokowi",
-    "askedBy": "jrki",
-    "time": 1775331741143
-  },
-  "pendingAnswer": "ya",
+  "roundStartedAt": null,
+  "qaLog": [],
+  "pendingQuestion": null,
+  "pendingAnswer": null,
   "guessResult": null,
-  "phase": "playing",
+  "phase": "roundover",
   "over": false,
   "finalWinner": null,
-  "startedAt": 1775331730551
+  "startedAt": 1775331730551,
+  "revealedWord": "JOKOWI",
+  "revealedRound": 1
 }
