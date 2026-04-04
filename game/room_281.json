@@ -15,9 +15,9 @@
   "totalRounds": 2,
   "currentWord": null,
   "wordOptions": [
-    "SINGA",
-    "KUDA",
-    "BEBEK"
+    "JEMBATAN",
+    "MENARA",
+    "PABRIK"
   ],
   "roundStartedAt": null,
   "roundDurationMs": 60000,
@@ -28,5 +28,5 @@
   "over": false,
   "finalWinner": null,
   "phase": "picking",
-  "startedAt": 1775328740269
+  "startedAt": 1775328741727
 }
