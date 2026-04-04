@@ -17,17 +17,23 @@
   "wordIdx": 47,
   "currentWord": "DUTA BESAR",
   "currentCategory": "Profesi",
-  "questionCount": 0,
+  "questionCount": 1,
   "maxQuestions": 20,
   "roundDurationMs": 180000,
   "roundStartedAt": 1775331300469,
-  "qaLog": [],
+  "qaLog": [
+    {
+      "q": "duta besar",
+      "a": "ya",
+      "time": 1775331300947
+    }
+  ],
   "pendingQuestion": {
     "text": "duta besar",
     "askedBy": "jrki",
     "time": 1775331300469
   },
-  "pendingAnswer": null,
+  "pendingAnswer": "ya",
   "guessResult": null,
   "phase": "playing",
   "over": false,
