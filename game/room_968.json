@@ -36,9 +36,9 @@
   "pendingQuestion": {
     "text": "rendang",
     "askedBy": "jrki",
-    "time": 1775330030538
+    "time": 1775330051420
   },
-  "pendingAnswer": "ya",
+  "pendingAnswer": null,
   "guessResult": null,
   "phase": "playing",
   "over": false,
