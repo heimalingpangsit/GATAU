@@ -15,9 +15,9 @@
   "totalRounds": 2,
   "currentWord": null,
   "wordOptions": [
-    "NAGA",
-    "ROBOT",
-    "PAYUNG"
+    "BUNGA",
+    "BUKU",
+    "BOLA"
   ],
   "roundStartedAt": null,
   "roundDurationMs": 60000,
@@ -28,5 +28,5 @@
   "over": false,
   "finalWinner": null,
   "phase": "picking",
-  "startedAt": 1775328438701
+  "startedAt": 1775328440526
 }
