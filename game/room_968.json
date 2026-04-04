@@ -1,0 +1,53 @@
+{
+  "type": "tebak_kata",
+  "roomId": "968",
+  "players": [
+    "jepingac0r",
+    "jrki"
+  ],
+  "scores": {
+    "jepingac0r": 0,
+    "jrki": 0
+  },
+  "answererIdx": 0,
+  "answerer": "jepingac0r",
+  "guesser": "jrki",
+  "round": 1,
+  "totalRounds": 4,
+  "wordIdx": 10,
+  "currentWord": "RENDANG",
+  "currentCategory": "Makanan",
+  "questionCount": 3,
+  "maxQuestions": 20,
+  "roundDurationMs": 180000,
+  "roundStartedAt": 1775330017741,
+  "qaLog": [
+    {
+      "q": "apakah makanan",
+      "a": "ya",
+      "time": 1775330021350
+    },
+    {
+      "q": "rendang",
+      "a": "ya",
+      "time": 1775330029562
+    },
+    {
+      "q": "rendang",
+      "a": "bukan",
+      "time": 1775330052013
+    }
+  ],
+  "pendingQuestion": {
+    "text": "rendang",
+    "askedBy": "jrki",
+    "time": 1775330051420
+  },
+  "pendingAnswer": "bukan",
+  "guessResult": null,
+  "phase": "playing",
+  "over": true,
+  "finalWinner": null,
+  "startedAt": 1775330002097,
+  "_answerShown": true
+}
