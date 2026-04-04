@@ -53,7 +53,8 @@
     "name": "puki",
     "host": "jepingac0r",
     "players": [
-      "jepingac0r"
+      "jepingac0r",
+      "jrki"
     ],
     "maxPlayers": 2,
     "gameType": "tictactoe",
@@ -61,6 +62,7 @@
     "duration": null,
     "password": null,
     "createdAt": 1775305211386,
-    "rematchVotes": {}
+    "rematchVotes": {},
+    "guest": "jrki"
   }
 }
