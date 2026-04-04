@@ -1,1 +1,17 @@
-{}
+{
+  "588": {
+    "id": "588",
+    "name": "yh",
+    "host": "jepingac0r",
+    "players": [
+      "jepingac0r"
+    ],
+    "maxPlayers": 2,
+    "gameType": "tebak_gambar",
+    "countdown": 3,
+    "duration": 10,
+    "password": null,
+    "createdAt": 1775306320108,
+    "rematchVotes": {}
+  }
+}
