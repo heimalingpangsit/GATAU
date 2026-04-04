@@ -1,0 +1,32 @@
+{
+  "type": "tebak_gambar",
+  "roomId": "145",
+  "players": [
+    "jepingac0r",
+    "jrki"
+  ],
+  "scores": {
+    "jepingac0r": 0,
+    "jrki": 0
+  },
+  "drawerIdx": 0,
+  "drawer": "jepingac0r",
+  "round": 1,
+  "totalRounds": 2,
+  "currentWord": null,
+  "wordOptions": [
+    "PIRING",
+    "SENDOK",
+    "GARPU"
+  ],
+  "roundStartedAt": null,
+  "roundDurationMs": 150000,
+  "durationMin": 10,
+  "guessedBy": [],
+  "strokes": [],
+  "chat": [],
+  "over": false,
+  "finalWinner": null,
+  "phase": "picking",
+  "startedAt": 1775307225228
+}
