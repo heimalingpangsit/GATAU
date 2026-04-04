@@ -1,1 +1,17 @@
-{}
+{
+  "968": {
+    "id": "968",
+    "name": "o",
+    "host": "jepingac0r",
+    "players": [
+      "jepingac0r"
+    ],
+    "maxPlayers": 2,
+    "gameType": "tebak_kata",
+    "countdown": 3,
+    "duration": 10,
+    "password": null,
+    "createdAt": 1775329991113,
+    "rematchVotes": {}
+  }
+}
