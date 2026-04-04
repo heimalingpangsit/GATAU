@@ -7,9 +7,9 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1FirstWrong": false,
-  "p2FirstWrong": false,
+  "p2FirstWrong": true,
   "p1Score": 125,
-  "p2Score": 68,
+  "p2Score": 67,
   "chain": [
     {
       "word": "olokal",
@@ -189,6 +189,11 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 9
+    },
+    {
+      "word": "kanpa",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "inikan",
