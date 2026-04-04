@@ -7,9 +7,9 @@
   "p1Strikes": 0,
   "p2Strikes": 0,
   "p1FirstWrong": false,
-  "p2FirstWrong": false,
+  "p2FirstWrong": true,
   "p1Score": 91,
-  "p2Score": 47,
+  "p2Score": 46,
   "chain": [
     {
       "word": "olokal",
@@ -141,6 +141,11 @@
       "by": "jepingac0r",
       "wrong": false,
       "pts": 9
+    },
+    {
+      "word": "kitw",
+      "by": "jrki",
+      "wrong": true
     }
   ],
   "lastWord": "rumkit",
