@@ -20,9 +20,13 @@
   "questionCount": 0,
   "maxQuestions": 20,
   "roundDurationMs": 180000,
-  "roundStartedAt": null,
+  "roundStartedAt": 1775332096463,
   "qaLog": [],
-  "pendingQuestion": null,
+  "pendingQuestion": {
+    "text": "chairil anwar",
+    "askedBy": "jepingac0r",
+    "time": 1775332096463
+  },
   "pendingAnswer": null,
   "guessResult": null,
   "phase": "playing",
