@@ -14,6 +14,7 @@
     "password": null,
     "createdAt": 1775329991113,
     "rematchVotes": {},
-    "guest": "jrki"
+    "guest": "jrki",
+    "guestForfeited": true
   }
 }
