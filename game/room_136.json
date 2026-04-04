@@ -6,26 +6,33 @@
     "jrki"
   ],
   "scores": {
-    "jepingac0r": 0,
-    "jrki": 0
+    "jepingac0r": 3,
+    "jrki": 10
   },
-  "drawerIdx": 0,
-  "drawer": "jepingac0r",
-  "round": 1,
+  "drawerIdx": 1,
+  "drawer": "jrki",
+  "round": 2,
   "totalRounds": 2,
-  "currentWord": "PIZZA",
+  "currentWord": null,
   "wordOptions": [
-    "PIZZA",
-    "KOPI",
-    "ROTI"
+    "AWAN",
+    "HUJAN",
+    "PETIR"
   ],
-  "roundStartedAt": 1775287850231,
+  "roundStartedAt": null,
   "roundDurationMs": 300000,
   "guessedBy": [],
   "strokes": [],
-  "chat": [],
+  "chat": [
+    {
+      "user": "jrki",
+      "text": "pizza",
+      "correct": true,
+      "time": 1775287893564
+    }
+  ],
   "over": false,
   "finalWinner": null,
-  "phase": "drawing",
+  "phase": "picking",
   "startedAt": 1775287845675
 }
