@@ -53,7 +53,8 @@
     "name": "oh",
     "host": "jepingac0r",
     "players": [
-      "jepingac0r"
+      "jepingac0r",
+      "jrki"
     ],
     "maxPlayers": 2,
     "gameType": "balapan_ketik",
@@ -61,6 +62,7 @@
     "duration": null,
     "password": null,
     "createdAt": 1775287930387,
-    "rematchVotes": {}
+    "rematchVotes": {},
+    "guest": "jrki"
   }
 }
