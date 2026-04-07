@@ -8,5 +8,10 @@
     "username": "jrki",
     "passwordHash": "095426367387ac9459de05eb3cf0cccb",
     "createdAt": 1775287732188
+  },
+  "modar": {
+    "username": "modar",
+    "passwordHash": "889aa3f6b0d47934d71996fa906eae55",
+    "createdAt": 1775557178838
   }
 }
