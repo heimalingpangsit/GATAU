@@ -4,7 +4,8 @@
     "name": "111",
     "host": "modar",
     "players": [
-      "modar"
+      "modar",
+      "jepingac0r"
     ],
     "maxPlayers": 2,
     "gameType": "balapan_ketik",
@@ -12,7 +13,8 @@
     "duration": null,
     "password": null,
     "createdAt": 1775557193280,
-    "rematchVotes": {}
+    "rematchVotes": {},
+    "guest": "jepingac0r"
   },
   "943": {
     "id": "943",
