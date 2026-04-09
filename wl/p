@@ -5,5 +5,13 @@
     "expires": "permanent",
     "role": "donatur",
     "added": "2026-03-27"
+  },
+  {
+    "username": "jepin",
+    "key": "pokay951515core",
+    "expires": "2026-04-16",
+    "role": "donatur",
+    "added": "2026-04-09",
+    "_donor": "jrki"
   }
 ]
