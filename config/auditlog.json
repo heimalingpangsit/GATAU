@@ -1,5 +1,13 @@
 [
   {
+    "time": "11/04/26, 18.23.21",
+    "actor": "JEPIN",
+    "role": "owner",
+    "category": "adm",
+    "type": "del",
+    "msg": "👥 Hapus Admin: adminzaki"
+  },
+  {
     "time": "11/04/26, 18.21.37",
     "actor": "JEPIN",
     "role": "owner",
