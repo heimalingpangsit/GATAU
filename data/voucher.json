@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "vch-d9f3c77b44",
+    "name": "jumat berkah",
+    "code": "JUMAT BERKAH",
+    "kind": "percent",
+    "min_purchase": 50000,
+    "discount_value": 10,
+    "max_discount": 40,
+    "quota": 50,
+    "used_count": 0,
+    "date_start": null,
+    "date_end": null,
+    "active": true,
+    "created_at": "2026-07-19T16:42:28.630027+00:00"
+  }
+]
