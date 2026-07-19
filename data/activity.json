@@ -1,5 +1,12 @@
 [
   {
+    "id": "act-547363e836",
+    "timestamp": "2026-07-19T16:42:29.282184+00:00",
+    "user": "jarki",
+    "action": "voucher_create",
+    "detail": "JUMAT BERKAH"
+  },
+  {
     "id": "act-c0f6685a18",
     "timestamp": "2026-07-19T16:41:13.524985+00:00",
     "user": "jarki",
