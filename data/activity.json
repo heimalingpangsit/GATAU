@@ -1,5 +1,12 @@
 [
   {
+    "id": "act-c9c9902e0b",
+    "timestamp": "2026-07-19T16:34:41.704892+00:00",
+    "user": "jarki",
+    "action": "cashier_create",
+    "detail": "kasir"
+  },
+  {
     "id": "act-8b1f16ef4c",
     "timestamp": "2026-07-19T16:34:08.655950+00:00",
     "user": "jarki",
