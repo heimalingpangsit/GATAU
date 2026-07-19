@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "id": "ord-491f3e78a0",
+    "order_number": "KD-20260719-A001",
+    "queue_number": "A001",
+    "date": "2026-07-19",
+    "created_at": "2026-07-19T16:36:11.750112+00:00",
+    "buyer_name": "jarki",
+    "buyer_phone": "134646643456",
+    "order_note": "",
+    "items": [
+      {
+        "menu_id": "mn-7e7ec79c40",
+        "name": "kebab sosis",
+        "price": 15000,
+        "qty": 1,
+        "note": "",
+        "spicy_level": null,
+        "addons": []
+      }
+    ],
+    "subtotal": 15000,
+    "discount": 0,
+    "voucher_id": null,
+    "voucher_code": null,
+    "tax": 0,
+    "admin_fee": 0,
+    "total": 15000,
+    "payment_status": "pending",
+    "order_status": "menunggu_diproses",
+    "payment_method": "qris"
+  }
+]
