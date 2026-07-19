@@ -1,5 +1,12 @@
 [
   {
+    "id": "act-8e0c3fb8b8",
+    "timestamp": "2026-07-19T16:37:25.976396+00:00",
+    "user": "jarki",
+    "action": "order_status_update",
+    "detail": "KD-20260719-A002 -> siap_diambil"
+  },
+  {
     "id": "act-be52fa7997",
     "timestamp": "2026-07-19T16:37:22.370192+00:00",
     "user": "jarki",
