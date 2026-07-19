@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="30" fill="#1C1815"/>
+  <circle cx="32" cy="32" r="24" fill="#D64545"/>
+  <text x="32" y="41" font-family="Arial, sans-serif" font-weight="bold" font-size="22" fill="#FBF3E7" text-anchor="middle">KD</text>
+</svg>
