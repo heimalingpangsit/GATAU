@@ -1,0 +1,58 @@
+# Blueprint Render.com untuk deploy BACKEND (FastAPI).
+# Cara pakai: Render Dashboard -> New -> Blueprint -> hubungkan repo ini.
+# Render otomatis mendeteksi file ini, build Dockerfile di folder backend/,
+# lalu Anda tinggal isi Environment Variables lewat dashboard Render
+# (jangan isi nilai asli di sini / di git).
+#
+# MongoDB TIDAK disediakan Render secara native untuk plan gratis -
+# gunakan MongoDB Atlas (gratis, https://www.mongodb.com/cloud/atlas/register)
+# lalu tempel connection string-nya ke MONGO_URI di bawah.
+
+services:
+  - type: web
+    name: kebab-dzaqy-backend
+    runtime: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    plan: free
+    envVars:
+      - key: GITHUB_TOKEN
+        sync: false
+      - key: GITHUB_OWNER
+        sync: false
+      - key: GITHUB_REPO
+        sync: false
+      - key: GITHUB_BRANCH
+        value: main
+      - key: GITHUB_DATA_PATH
+        value: data
+      - key: PAKASIR_API_KEY
+        sync: false
+      - key: PAKASIR_SLUG
+        sync: false
+      - key: PAKASIR_BASE_URL
+        value: https://app.pakasir.com
+      - key: MONGO_URI
+        sync: false
+      - key: MONGO_DB_NAME
+        value: kebab_dzaqy_cache
+      - key: JWT_SECRET_KEY
+        generateValue: true
+      - key: JWT_ALGORITHM
+        value: HS256
+      - key: JWT_ACCESS_TOKEN_EXPIRE_MINUTES
+        value: "120"
+      - key: DEFAULT_OWNER_USERNAME
+        sync: false
+      - key: DEFAULT_OWNER_PASSWORD
+        sync: false
+      - key: DEFAULT_KASIR_USERNAME
+        sync: false
+      - key: DEFAULT_KASIR_PASSWORD
+        sync: false
+      - key: DEFAULT_KASIR_WHATSAPP
+        sync: false
+      - key: FRONTEND_ORIGIN
+        sync: false
+      - key: ENVIRONMENT
+        value: production

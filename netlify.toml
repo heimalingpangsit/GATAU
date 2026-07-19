@@ -1,0 +1,19 @@
+# Netlify HANYA men-deploy folder frontend (React/Vite) sebagai situs statis.
+# Netlify tidak bisa menjalankan FastAPI (server Python long-running) -
+# backend WAJIB di-deploy terpisah ke platform yang mendukung Docker/Python
+# (lihat backend/RENDER_DEPLOY.md). Isi VITE_API_URL di bawah dengan URL
+# backend Anda setelah backend berhasil deploy.
+
+[build]
+  base    = "frontend"
+  command = "npm run build"
+  publish = "frontend/dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Semua route React Router diarahkan ke index.html (client-side routing)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

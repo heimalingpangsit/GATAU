@@ -1,0 +1,58 @@
+# docker-compose ini untuk deploy di VPS / platform yang mendukung Docker
+# Compose (mis. Railway, Coolify, atau server sendiri). Anda TIDAK perlu
+# menjalankan perintah ini manual — platform hosting yang akan menjalankannya
+# otomatis saat Anda menyambungkan repo. Netlify tidak memakai file ini
+# (Netlify hanya build folder frontend/dist secara statis).
+
+services:
+  mongo:
+    image: mongo:7
+    restart: unless-stopped
+    volumes:
+      - mongo_data:/data/db
+    environment:
+      MONGO_INITDB_DATABASE: kebab_dzaqy_cache
+
+  backend:
+    build:
+      context: ./backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      GITHUB_TOKEN: ${GITHUB_TOKEN}
+      GITHUB_OWNER: ${GITHUB_OWNER}
+      GITHUB_REPO: ${GITHUB_REPO}
+      GITHUB_BRANCH: ${GITHUB_BRANCH}
+      GITHUB_DATA_PATH: ${GITHUB_DATA_PATH:-data}
+      PAKASIR_API_KEY: ${PAKASIR_API_KEY}
+      PAKASIR_SLUG: ${PAKASIR_SLUG}
+      PAKASIR_BASE_URL: ${PAKASIR_BASE_URL:-https://app.pakasir.com}
+      MONGO_URI: mongodb://mongo:27017
+      MONGO_DB_NAME: kebab_dzaqy_cache
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY}
+      JWT_ALGORITHM: HS256
+      JWT_ACCESS_TOKEN_EXPIRE_MINUTES: 120
+      DEFAULT_OWNER_USERNAME: ${DEFAULT_OWNER_USERNAME}
+      DEFAULT_OWNER_PASSWORD: ${DEFAULT_OWNER_PASSWORD}
+      DEFAULT_KASIR_USERNAME: ${DEFAULT_KASIR_USERNAME}
+      DEFAULT_KASIR_PASSWORD: ${DEFAULT_KASIR_PASSWORD}
+      DEFAULT_KASIR_WHATSAPP: ${DEFAULT_KASIR_WHATSAPP}
+      FRONTEND_ORIGIN: ${FRONTEND_ORIGIN:-http://localhost:5173}
+      ENVIRONMENT: production
+    depends_on:
+      - mongo
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        VITE_API_URL: ${VITE_API_URL:-http://localhost:8000}
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+
+volumes:
+  mongo_data:
