@@ -1,5 +1,12 @@
 [
   {
+    "id": "act-c0f6685a18",
+    "timestamp": "2026-07-19T16:41:13.524985+00:00",
+    "user": "jarki",
+    "action": "owner_login",
+    "detail": ""
+  },
+  {
     "id": "act-d71dbe523b",
     "timestamp": "2026-07-19T16:37:27.504981+00:00",
     "user": "jarki",
