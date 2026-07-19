@@ -26,9 +26,10 @@
     "tax": 0,
     "admin_fee": 0,
     "total": 15000,
-    "payment_status": "pending",
+    "payment_status": "paid",
     "order_status": "menunggu_diproses",
-    "payment_method": "qris"
+    "payment_method": "qris",
+    "paid_at": "2026-07-19T16:40:19.013347+00:00"
   },
   {
     "id": "ord-8e4250e89e",
