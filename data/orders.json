@@ -58,7 +58,7 @@
     "admin_fee": 0,
     "total": 15000,
     "payment_status": "pending",
-    "order_status": "menunggu_diproses",
+    "order_status": "siap_diambil",
     "payment_method": "qris"
   }
 ]
