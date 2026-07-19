@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cat-makanan",
+    "name": "Makanan",
+    "icon": "utensils"
+  },
+  {
+    "id": "cat-minuman",
+    "name": "Minuman",
+    "icon": "coffee"
+  },
+  {
+    "id": "cat-snack",
+    "name": "Snack",
+    "icon": "cookie"
+  },
+  {
+    "id": "cat-promo",
+    "name": "Promo",
+    "icon": "tag"
+  }
+]
