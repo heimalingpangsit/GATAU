@@ -1,5 +1,12 @@
 [
   {
+    "id": "act-1b888a53ea",
+    "timestamp": "2026-07-19T16:35:42.038947+00:00",
+    "user": "jarki",
+    "action": "menu_create",
+    "detail": "kebab sosis"
+  },
+  {
     "id": "act-c9c9902e0b",
     "timestamp": "2026-07-19T16:34:41.704892+00:00",
     "user": "jarki",
