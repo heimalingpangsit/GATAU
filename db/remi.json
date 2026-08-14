@@ -157,7 +157,14 @@
       "turun": false
     }
   },
-  "activity": [],
-  "updatedAt": "2026-08-14T04:12:37.817Z",
+  "activity": [
+    {
+      "type": "ada_kah",
+      "card": "love-6",
+      "by": "jarki",
+      "at": "2026-08-14T04:12:41.260Z"
+    }
+  ],
+  "updatedAt": "2026-08-14T04:12:41.260Z",
   "updatedBy": "jarki"
 }
