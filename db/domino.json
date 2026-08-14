@@ -1,14 +1,12 @@
 {
   "cards": {
     "0-0": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "0-1": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "0-2": {
       "turun": false,
@@ -23,11 +21,11 @@
       "heldBy": []
     },
     "0-5": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "0-6": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "1-1": {
@@ -39,7 +37,7 @@
       "heldBy": []
     },
     "1-3": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "1-4": {
@@ -47,24 +45,20 @@
       "heldBy": []
     },
     "1-5": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "1-6": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "2-2": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "2-3": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "2-4": {
       "turun": false,
@@ -79,7 +73,7 @@
       "heldBy": []
     },
     "3-3": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "3-4": {
@@ -87,7 +81,7 @@
       "heldBy": []
     },
     "3-5": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "3-6": {
@@ -95,7 +89,7 @@
       "heldBy": []
     },
     "4-4": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "4-5": {
@@ -103,15 +97,15 @@
       "heldBy": []
     },
     "4-6": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "5-5": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "5-6": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "6-6": {
@@ -119,7 +113,7 @@
       "heldBy": []
     }
   },
-  "updatedAt": "2026-08-14T12:42:47.762Z",
+  "updatedAt": "2026-08-14T16:29:14.905Z",
   "updatedBy": "jarki",
-  "resetAt": "2026-08-14T12:16:38.696Z"
+  "resetAt": "2026-08-14T16:29:14.791Z"
 }
