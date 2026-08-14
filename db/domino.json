@@ -1,0 +1,118 @@
+{
+  "cards": {
+    "0-0": {
+      "turun": false,
+      "heldBy": []
+    },
+    "0-1": {
+      "turun": false,
+      "heldBy": []
+    },
+    "0-2": {
+      "turun": false,
+      "heldBy": []
+    },
+    "0-3": {
+      "turun": false,
+      "heldBy": []
+    },
+    "0-4": {
+      "turun": false,
+      "heldBy": []
+    },
+    "0-5": {
+      "turun": false,
+      "heldBy": []
+    },
+    "0-6": {
+      "turun": false,
+      "heldBy": []
+    },
+    "1-1": {
+      "turun": false,
+      "heldBy": []
+    },
+    "1-2": {
+      "turun": false,
+      "heldBy": []
+    },
+    "1-3": {
+      "turun": false,
+      "heldBy": []
+    },
+    "1-4": {
+      "turun": false,
+      "heldBy": []
+    },
+    "1-5": {
+      "turun": false,
+      "heldBy": []
+    },
+    "1-6": {
+      "turun": false,
+      "heldBy": []
+    },
+    "2-2": {
+      "turun": false,
+      "heldBy": []
+    },
+    "2-3": {
+      "turun": false,
+      "heldBy": []
+    },
+    "2-4": {
+      "turun": false,
+      "heldBy": []
+    },
+    "2-5": {
+      "turun": false,
+      "heldBy": []
+    },
+    "2-6": {
+      "turun": false,
+      "heldBy": []
+    },
+    "3-3": {
+      "turun": false,
+      "heldBy": []
+    },
+    "3-4": {
+      "turun": false,
+      "heldBy": []
+    },
+    "3-5": {
+      "turun": false,
+      "heldBy": []
+    },
+    "3-6": {
+      "turun": false,
+      "heldBy": []
+    },
+    "4-4": {
+      "turun": false,
+      "heldBy": []
+    },
+    "4-5": {
+      "turun": false,
+      "heldBy": []
+    },
+    "4-6": {
+      "turun": false,
+      "heldBy": []
+    },
+    "5-5": {
+      "turun": false,
+      "heldBy": []
+    },
+    "5-6": {
+      "turun": false,
+      "heldBy": []
+    },
+    "6-6": {
+      "turun": false,
+      "heldBy": []
+    }
+  },
+  "updatedAt": null,
+  "updatedBy": null
+}
