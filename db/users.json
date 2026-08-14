@@ -1,0 +1,11 @@
+{
+  "jarki": {
+    "username": "jarki",
+    "passHash": "bdc74fb0dc70f76bd323506ac3ddd86da9000149ee6563822965f192c587289e",
+    "isOwner": true,
+    "coins": 999999,
+    "loanLimit": 999999,
+    "createdAt": "2026-08-14T06:28:34.401Z",
+    "loanBalance": 0
+  }
+}
