@@ -106,7 +106,9 @@
     },
     "4-4": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "maldin"
+      ]
     },
     "4-5": {
       "turun": false,
@@ -139,7 +141,7 @@
       ]
     }
   },
-  "updatedAt": "2026-08-14T06:48:31.378Z",
+  "updatedAt": "2026-08-14T06:48:41.181Z",
   "updatedBy": "maldin",
   "resetAt": "2026-08-14T05:10:18.946Z"
 }
