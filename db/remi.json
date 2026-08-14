@@ -66,19 +66,27 @@
     },
     "wajik-4": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "wajik-5": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "wajik-6": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "wajik-7": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "wajik-8": {
       "turun": false,
@@ -217,7 +225,7 @@
       "at": "2026-08-14T05:03:32.970Z"
     }
   ],
-  "updatedAt": "2026-08-14T05:03:35.103Z",
+  "updatedAt": "2026-08-14T05:03:50.230Z",
   "updatedBy": "jarki",
   "resetAt": "2026-08-14T05:03:32.970Z"
 }
