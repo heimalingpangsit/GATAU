@@ -213,10 +213,8 @@
       ]
     },
     "sekop-10": {
-      "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "turun": true,
+      "heldBy": []
     },
     "sekop-J": {
       "turun": false,
@@ -251,7 +249,7 @@
       "at": "2026-08-14T06:50:19.474Z"
     }
   ],
-  "updatedAt": "2026-08-14T06:50:36.422Z",
+  "updatedAt": "2026-08-14T06:50:46.124Z",
   "updatedBy": "jarki",
   "resetAt": "2026-08-14T06:49:46.982Z"
 }
