@@ -1,0 +1,6 @@
+{
+  "dailyCoinAmount": 100,
+  "winRewardCoins": 50,
+  "defaultLoanLimit": 500,
+  "ownerCanViewAllCards": true
+}
