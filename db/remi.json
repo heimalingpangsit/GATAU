@@ -13,11 +13,11 @@
       "heldBy": []
     },
     "love-4": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "love-5": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "love-6": {
@@ -37,7 +37,7 @@
       "heldBy": []
     },
     "love-10": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "love-J": {
@@ -154,90 +154,59 @@
     },
     "keriting-K": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-A": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-2": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-3": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-4": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-5": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-6": {
       "turun": false,
-      "heldBy": [
-        "jarki",
-        "maldin"
-      ]
+      "heldBy": []
     },
     "sekop-7": {
       "turun": false,
-      "heldBy": [
-        "jarki",
-        "maldin"
-      ]
+      "heldBy": []
     },
     "sekop-8": {
       "turun": false,
-      "heldBy": [
-        "jarki",
-        "maldin"
-      ]
+      "heldBy": []
     },
     "sekop-9": {
       "turun": false,
-      "heldBy": [
-        "jarki",
-        "maldin"
-      ]
+      "heldBy": []
     },
     "sekop-10": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "sekop-J": {
       "turun": false,
-      "heldBy": [
-        "jarki",
-        "maldin"
-      ]
+      "heldBy": []
     },
     "sekop-Q": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-K": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     }
   },
   "activity": [
@@ -245,16 +214,10 @@
       "type": "reset",
       "card": null,
       "by": "jarki",
-      "at": "2026-08-14T06:49:46.982Z"
-    },
-    {
-      "type": "minta_nah",
-      "card": "love-10",
-      "by": "jarki",
-      "at": "2026-08-14T06:50:19.474Z"
+      "at": "2026-08-14T10:07:21.111Z"
     }
   ],
-  "updatedAt": "2026-08-14T06:51:10.103Z",
-  "updatedBy": "maldin",
-  "resetAt": "2026-08-14T06:49:46.982Z"
+  "updatedAt": "2026-08-14T10:07:22.301Z",
+  "updatedBy": "jarki",
+  "resetAt": "2026-08-14T10:07:21.111Z"
 }
