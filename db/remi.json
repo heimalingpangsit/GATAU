@@ -223,9 +223,15 @@
       "card": null,
       "by": "jarki",
       "at": "2026-08-14T05:03:32.970Z"
+    },
+    {
+      "type": "minta_nah",
+      "card": "sekop-10",
+      "by": "jarki",
+      "at": "2026-08-14T05:04:04.450Z"
     }
   ],
-  "updatedAt": "2026-08-14T05:03:50.230Z",
+  "updatedAt": "2026-08-14T05:04:04.450Z",
   "updatedBy": "jarki",
   "resetAt": "2026-08-14T05:03:32.970Z"
 }
