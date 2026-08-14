@@ -1,1 +1,15 @@
-{}
+{
+  "KYLW98": {
+    "id": "KYLW98",
+    "name": "Room KYLW98",
+    "game": "jenderal",
+    "maxPlayers": 4,
+    "playerCount": 1,
+    "hasPassword": false,
+    "status": "waiting",
+    "betEnabled": false,
+    "betAmount": 0,
+    "hostUsername": "jarki",
+    "createdAt": 1786688953339
+  }
+}
