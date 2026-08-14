@@ -13,7 +13,7 @@
       "turun": false
     },
     "love-5": {
-      "turun": false
+      "turun": true
     },
     "love-6": {
       "turun": false
@@ -158,6 +158,6 @@
     }
   },
   "activity": [],
-  "updatedAt": null,
-  "updatedBy": null
+  "updatedAt": "2026-08-14T04:12:37.817Z",
+  "updatedBy": "jarki"
 }
