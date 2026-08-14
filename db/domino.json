@@ -53,7 +53,7 @@
       "heldBy": []
     },
     "2-2": {
-      "turun": false,
+      "turun": true,
       "heldBy": []
     },
     "2-3": {
@@ -113,7 +113,7 @@
       "heldBy": []
     }
   },
-  "updatedAt": "2026-08-14T11:31:55.020Z",
+  "updatedAt": "2026-08-14T11:32:58.536Z",
   "updatedBy": "jarki",
   "resetAt": "2026-08-14T10:54:21.178Z"
 }
