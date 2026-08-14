@@ -37,7 +37,7 @@
       "heldBy": []
     },
     "love-10": {
-      "turun": false,
+      "turun": true,
       "heldBy": []
     },
     "love-J": {
@@ -251,7 +251,7 @@
       "at": "2026-08-14T06:50:19.474Z"
     }
   ],
-  "updatedAt": "2026-08-14T06:50:31.736Z",
+  "updatedAt": "2026-08-14T06:50:33.578Z",
   "updatedBy": "jarki",
   "resetAt": "2026-08-14T06:49:46.982Z"
 }
