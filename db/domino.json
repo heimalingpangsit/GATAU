@@ -6,9 +6,7 @@
     },
     "0-1": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "0-2": {
       "turun": false,
@@ -28,9 +26,7 @@
     },
     "0-6": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "1-1": {
       "turun": false,
@@ -78,9 +74,7 @@
     },
     "3-3": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "3-4": {
       "turun": false,
@@ -95,20 +89,16 @@
       "heldBy": []
     },
     "4-4": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "4-5": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "4-6": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "5-5": {
       "turun": false,
@@ -120,12 +110,10 @@
     },
     "6-6": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     }
   },
-  "updatedAt": "2026-08-14T11:44:12.756Z",
+  "updatedAt": "2026-08-14T11:44:46.726Z",
   "updatedBy": "jarki",
-  "resetAt": "2026-08-14T11:43:23.778Z"
+  "resetAt": "2026-08-14T11:44:46.677Z"
 }
