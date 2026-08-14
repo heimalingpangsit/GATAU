@@ -1,7 +1,7 @@
 {
   "cards": {
     "0-0": {
-      "turun": false,
+      "turun": true,
       "heldBy": []
     },
     "0-1": {
@@ -113,6 +113,6 @@
       "heldBy": []
     }
   },
-  "updatedAt": null,
-  "updatedBy": null
+  "updatedAt": "2026-08-14T04:06:37.874Z",
+  "updatedBy": "jarki"
 }
