@@ -157,20 +157,7 @@
       "turun": false
     }
   },
-  "activity": [
-    {
-      "type": "ada_kah",
-      "card": "love-5",
-      "by": "maldin",
-      "at": "2026-08-14T04:06:42.607Z"
-    },
-    {
-      "type": "ada_kah",
-      "card": "love-5",
-      "by": "maldin",
-      "at": "2026-08-14T04:08:07.987Z"
-    }
-  ],
-  "updatedAt": "2026-08-14T04:08:07.987Z",
-  "updatedBy": "maldin"
+  "activity": [],
+  "updatedAt": null,
+  "updatedBy": null
 }
