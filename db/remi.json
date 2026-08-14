@@ -166,9 +166,7 @@
     },
     "sekop-3": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-4": {
       "turun": false,
@@ -176,9 +174,7 @@
     },
     "sekop-5": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-6": {
       "turun": false,
@@ -186,9 +182,7 @@
     },
     "sekop-7": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-8": {
       "turun": false,
@@ -196,9 +190,7 @@
     },
     "sekop-9": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-10": {
       "turun": false,
@@ -206,9 +198,7 @@
     },
     "sekop-J": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-Q": {
       "turun": false,
@@ -216,9 +206,7 @@
     },
     "sekop-K": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     }
   },
   "activity": [
@@ -226,10 +214,10 @@
       "type": "reset",
       "card": null,
       "by": "jarki",
-      "at": "2026-08-14T06:49:22.584Z"
+      "at": "2026-08-14T06:49:46.982Z"
     }
   ],
-  "updatedAt": "2026-08-14T06:49:37.992Z",
+  "updatedAt": "2026-08-14T06:49:48.464Z",
   "updatedBy": "jarki",
-  "resetAt": "2026-08-14T06:49:22.584Z"
+  "resetAt": "2026-08-14T06:49:46.982Z"
 }
