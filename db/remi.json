@@ -243,9 +243,15 @@
       "card": null,
       "by": "jarki",
       "at": "2026-08-14T06:49:46.982Z"
+    },
+    {
+      "type": "minta_nah",
+      "card": "love-10",
+      "by": "jarki",
+      "at": "2026-08-14T06:50:19.474Z"
     }
   ],
-  "updatedAt": "2026-08-14T06:49:57.853Z",
+  "updatedAt": "2026-08-14T06:50:19.474Z",
   "updatedBy": "jarki",
   "resetAt": "2026-08-14T06:49:46.982Z"
 }
