@@ -169,8 +169,14 @@
       "card": "love-K",
       "by": "jarki",
       "at": "2026-08-14T04:13:23.262Z"
+    },
+    {
+      "type": "mau_ga",
+      "card": "love-8",
+      "by": "jarki",
+      "at": "2026-08-14T04:22:32.842Z"
     }
   ],
-  "updatedAt": "2026-08-14T04:14:48.990Z",
+  "updatedAt": "2026-08-14T04:22:32.842Z",
   "updatedBy": "jarki"
 }
