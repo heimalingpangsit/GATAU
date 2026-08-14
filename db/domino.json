@@ -27,8 +27,7 @@
     "0-6": {
       "turun": false,
       "heldBy": [
-        "jarki",
-        "maldin"
+        "jarki"
       ]
     },
     "1-1": {
@@ -136,7 +135,7 @@
       "heldBy": []
     }
   },
-  "updatedAt": "2026-08-14T06:48:09.636Z",
+  "updatedAt": "2026-08-14T06:48:21.764Z",
   "updatedBy": "maldin",
   "resetAt": "2026-08-14T05:10:18.946Z"
 }
