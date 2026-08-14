@@ -122,12 +122,10 @@
     },
     "6-6": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     }
   },
-  "updatedAt": "2026-08-14T05:09:36.944Z",
+  "updatedAt": "2026-08-14T05:09:52.787Z",
   "updatedBy": "jarki",
   "resetAt": "2026-08-14T05:03:32.970Z"
 }
