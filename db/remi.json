@@ -46,9 +46,7 @@
     },
     "love-Q": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "love-K": {
       "turun": false,
@@ -56,9 +54,7 @@
     },
     "wajik-A": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "wajik-2": {
       "turun": false,
@@ -66,9 +62,7 @@
     },
     "wajik-3": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "wajik-4": {
       "turun": false,
@@ -76,9 +70,7 @@
     },
     "wajik-5": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "wajik-6": {
       "turun": false,
@@ -86,9 +78,7 @@
     },
     "wajik-7": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "wajik-8": {
       "turun": false,
@@ -176,7 +166,9 @@
     },
     "sekop-3": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "sekop-4": {
       "turun": false,
@@ -184,7 +176,9 @@
     },
     "sekop-5": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "sekop-6": {
       "turun": false,
@@ -192,7 +186,9 @@
     },
     "sekop-7": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "sekop-8": {
       "turun": false,
@@ -200,7 +196,9 @@
     },
     "sekop-9": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "sekop-10": {
       "turun": false,
@@ -208,7 +206,9 @@
     },
     "sekop-J": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "sekop-Q": {
       "turun": false,
@@ -216,7 +216,9 @@
     },
     "sekop-K": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     }
   },
   "activity": [
@@ -227,7 +229,7 @@
       "at": "2026-08-14T06:49:22.584Z"
     }
   ],
-  "updatedAt": "2026-08-14T06:49:29.791Z",
+  "updatedAt": "2026-08-14T06:49:37.992Z",
   "updatedBy": "jarki",
   "resetAt": "2026-08-14T06:49:22.584Z"
 }
