@@ -229,9 +229,15 @@
       "card": "sekop-10",
       "by": "jarki",
       "at": "2026-08-14T05:04:04.450Z"
+    },
+    {
+      "type": "maukah",
+      "card": "sekop-10",
+      "by": "maldin",
+      "at": "2026-08-14T05:04:31.003Z"
     }
   ],
-  "updatedAt": "2026-08-14T05:04:04.450Z",
-  "updatedBy": "jarki",
+  "updatedAt": "2026-08-14T05:04:31.003Z",
+  "updatedBy": "maldin",
   "resetAt": "2026-08-14T05:03:32.970Z"
 }
