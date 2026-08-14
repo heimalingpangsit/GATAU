@@ -1,0 +1,27 @@
+{
+  "id": "KYLW98",
+  "name": "Room KYLW98",
+  "game": "jenderal",
+  "maxPlayers": 4,
+  "minPlayers": 3,
+  "hasPassword": false,
+  "password": null,
+  "bet": {
+    "enabled": false,
+    "amount": 0
+  },
+  "hostUsername": "jarki",
+  "players": [
+    {
+      "username": "jarki",
+      "joinedAt": 1786688953339
+    }
+  ],
+  "status": "waiting",
+  "table": null,
+  "payoutDone": false,
+  "lastPayout": null,
+  "rematchVotes": {},
+  "createdAt": 1786688953339,
+  "updatedAt": 1786688953339
+}
