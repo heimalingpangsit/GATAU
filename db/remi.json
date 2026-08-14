@@ -1,0 +1,163 @@
+{
+  "cards": {
+    "love-A": {
+      "turun": false
+    },
+    "love-2": {
+      "turun": false
+    },
+    "love-3": {
+      "turun": false
+    },
+    "love-4": {
+      "turun": false
+    },
+    "love-5": {
+      "turun": false
+    },
+    "love-6": {
+      "turun": false
+    },
+    "love-7": {
+      "turun": false
+    },
+    "love-8": {
+      "turun": false
+    },
+    "love-9": {
+      "turun": false
+    },
+    "love-10": {
+      "turun": false
+    },
+    "love-J": {
+      "turun": false
+    },
+    "love-Q": {
+      "turun": false
+    },
+    "love-K": {
+      "turun": false
+    },
+    "wajik-A": {
+      "turun": false
+    },
+    "wajik-2": {
+      "turun": false
+    },
+    "wajik-3": {
+      "turun": false
+    },
+    "wajik-4": {
+      "turun": false
+    },
+    "wajik-5": {
+      "turun": false
+    },
+    "wajik-6": {
+      "turun": false
+    },
+    "wajik-7": {
+      "turun": false
+    },
+    "wajik-8": {
+      "turun": false
+    },
+    "wajik-9": {
+      "turun": false
+    },
+    "wajik-10": {
+      "turun": false
+    },
+    "wajik-J": {
+      "turun": false
+    },
+    "wajik-Q": {
+      "turun": false
+    },
+    "wajik-K": {
+      "turun": false
+    },
+    "keriting-A": {
+      "turun": false
+    },
+    "keriting-2": {
+      "turun": false
+    },
+    "keriting-3": {
+      "turun": false
+    },
+    "keriting-4": {
+      "turun": false
+    },
+    "keriting-5": {
+      "turun": false
+    },
+    "keriting-6": {
+      "turun": false
+    },
+    "keriting-7": {
+      "turun": false
+    },
+    "keriting-8": {
+      "turun": false
+    },
+    "keriting-9": {
+      "turun": false
+    },
+    "keriting-10": {
+      "turun": false
+    },
+    "keriting-J": {
+      "turun": false
+    },
+    "keriting-Q": {
+      "turun": false
+    },
+    "keriting-K": {
+      "turun": false
+    },
+    "sekop-A": {
+      "turun": false
+    },
+    "sekop-2": {
+      "turun": false
+    },
+    "sekop-3": {
+      "turun": false
+    },
+    "sekop-4": {
+      "turun": false
+    },
+    "sekop-5": {
+      "turun": false
+    },
+    "sekop-6": {
+      "turun": false
+    },
+    "sekop-7": {
+      "turun": false
+    },
+    "sekop-8": {
+      "turun": false
+    },
+    "sekop-9": {
+      "turun": false
+    },
+    "sekop-10": {
+      "turun": false
+    },
+    "sekop-J": {
+      "turun": false
+    },
+    "sekop-Q": {
+      "turun": false
+    },
+    "sekop-K": {
+      "turun": false
+    }
+  },
+  "activity": [],
+  "updatedAt": null,
+  "updatedBy": null
+}
