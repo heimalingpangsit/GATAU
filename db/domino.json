@@ -43,9 +43,7 @@
     },
     "1-3": {
       "turun": false,
-      "heldBy": [
-        "maldin"
-      ]
+      "heldBy": []
     },
     "1-4": {
       "turun": false,
@@ -90,8 +88,7 @@
     "3-3": {
       "turun": false,
       "heldBy": [
-        "jarki",
-        "maldin"
+        "jarki"
       ]
     },
     "3-4": {
@@ -139,7 +136,7 @@
       "heldBy": []
     }
   },
-  "updatedAt": "2026-08-14T06:47:55.937Z",
+  "updatedAt": "2026-08-14T06:48:09.636Z",
   "updatedBy": "maldin",
   "resetAt": "2026-08-14T05:10:18.946Z"
 }
