@@ -18,9 +18,7 @@
     },
     "0-4": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "0-5": {
       "turun": false,
@@ -47,11 +45,11 @@
       "heldBy": []
     },
     "1-5": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "1-6": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "2-2": {
@@ -64,9 +62,7 @@
     },
     "2-4": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "2-5": {
       "turun": false,
@@ -82,9 +78,7 @@
     },
     "3-4": {
       "turun": false,
-      "heldBy": [
-        "maldin"
-      ]
+      "heldBy": []
     },
     "3-5": {
       "turun": false,
@@ -119,7 +113,7 @@
       "heldBy": []
     }
   },
-  "updatedAt": "2026-08-14T10:54:06.648Z",
+  "updatedAt": "2026-08-14T10:54:21.224Z",
   "updatedBy": "jarki",
-  "resetAt": "2026-08-14T10:07:21.111Z"
+  "resetAt": "2026-08-14T10:54:21.178Z"
 }
