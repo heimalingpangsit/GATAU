@@ -191,25 +191,29 @@
     "sekop-6": {
       "turun": false,
       "heldBy": [
-        "jarki"
+        "jarki",
+        "maldin"
       ]
     },
     "sekop-7": {
       "turun": false,
       "heldBy": [
-        "jarki"
+        "jarki",
+        "maldin"
       ]
     },
     "sekop-8": {
       "turun": false,
       "heldBy": [
-        "jarki"
+        "jarki",
+        "maldin"
       ]
     },
     "sekop-9": {
       "turun": false,
       "heldBy": [
-        "jarki"
+        "jarki",
+        "maldin"
       ]
     },
     "sekop-10": {
@@ -219,7 +223,8 @@
     "sekop-J": {
       "turun": false,
       "heldBy": [
-        "jarki"
+        "jarki",
+        "maldin"
       ]
     },
     "sekop-Q": {
@@ -249,7 +254,7 @@
       "at": "2026-08-14T06:50:19.474Z"
     }
   ],
-  "updatedAt": "2026-08-14T06:50:46.124Z",
-  "updatedBy": "jarki",
+  "updatedAt": "2026-08-14T06:51:10.103Z",
+  "updatedBy": "maldin",
   "resetAt": "2026-08-14T06:49:46.982Z"
 }
