@@ -1,182 +1,223 @@
 {
   "cards": {
     "love-A": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "love-2": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "love-3": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "love-4": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "love-5": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "love-6": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "love-7": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "love-8": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "love-9": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "love-10": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "love-J": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "love-Q": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "love-K": {
-      "turun": true
+      "turun": false,
+      "heldBy": []
     },
     "wajik-A": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "wajik-2": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "wajik-3": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "wajik-4": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "wajik-5": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "wajik-6": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "wajik-7": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "wajik-8": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "wajik-9": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "wajik-10": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "wajik-J": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "wajik-Q": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "wajik-K": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "keriting-A": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "keriting-2": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "keriting-3": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "keriting-4": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "keriting-5": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "keriting-6": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "keriting-7": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "keriting-8": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "keriting-9": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "keriting-10": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "keriting-J": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "keriting-Q": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "keriting-K": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "sekop-A": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "sekop-2": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "sekop-3": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "sekop-4": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "sekop-5": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "sekop-6": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "sekop-7": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "sekop-8": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "sekop-9": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "sekop-10": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "sekop-J": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "sekop-Q": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     },
     "sekop-K": {
-      "turun": false
+      "turun": false,
+      "heldBy": []
     }
   },
   "activity": [
     {
-      "type": "ada_kah",
-      "card": "love-6",
+      "type": "reset",
+      "card": null,
       "by": "jarki",
-      "at": "2026-08-14T04:12:41.260Z"
-    },
-    {
-      "type": "mau_ga",
-      "card": "love-K",
-      "by": "jarki",
-      "at": "2026-08-14T04:13:23.262Z"
-    },
-    {
-      "type": "mau_ga",
-      "card": "love-8",
-      "by": "jarki",
-      "at": "2026-08-14T04:22:32.842Z"
+      "at": "2026-08-14T05:03:32.970Z"
     }
   ],
-  "updatedAt": "2026-08-14T04:22:32.842Z",
-  "updatedBy": "jarki"
+  "updatedAt": "2026-08-14T05:03:35.103Z",
+  "updatedBy": "jarki",
+  "resetAt": "2026-08-14T05:03:32.970Z"
 }
