@@ -18,15 +18,21 @@
     },
     "love-5": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "love-6": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "love-7": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "love-8": {
       "turun": false,
@@ -38,7 +44,9 @@
     },
     "love-10": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "love-J": {
       "turun": false,
@@ -46,7 +54,9 @@
     },
     "love-Q": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "love-K": {
       "turun": false,
@@ -98,7 +108,9 @@
     },
     "wajik-Q": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "wajik-K": {
       "turun": false,
@@ -106,19 +118,27 @@
     },
     "keriting-A": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "keriting-2": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "keriting-3": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "keriting-4": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "keriting-5": {
       "turun": false,
@@ -142,7 +162,9 @@
     },
     "keriting-10": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "keriting-J": {
       "turun": false,
@@ -150,7 +172,9 @@
     },
     "keriting-Q": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     },
     "keriting-K": {
       "turun": false,
@@ -206,7 +230,9 @@
     },
     "sekop-K": {
       "turun": false,
-      "heldBy": []
+      "heldBy": [
+        "jarki"
+      ]
     }
   },
   "activity": [
@@ -217,7 +243,7 @@
       "at": "2026-08-15T11:28:44.176Z"
     }
   ],
-  "updatedAt": "2026-08-15T11:28:45.934Z",
+  "updatedAt": "2026-08-15T11:31:45.784Z",
   "updatedBy": "jarki",
   "resetAt": "2026-08-15T11:28:44.176Z"
 }
