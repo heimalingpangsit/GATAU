@@ -5,14 +5,12 @@
       "heldBy": []
     },
     "0-1": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "0-2": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "0-3": {
       "turun": false,
@@ -20,9 +18,7 @@
     },
     "0-4": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "0-5": {
       "turun": false,
@@ -41,7 +37,7 @@
       "heldBy": []
     },
     "1-3": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "1-4": {
@@ -49,21 +45,19 @@
       "heldBy": []
     },
     "1-5": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "1-6": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "2-2": {
       "turun": false,
       "heldBy": []
     },
     "2-3": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "2-4": {
@@ -71,11 +65,11 @@
       "heldBy": []
     },
     "2-5": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "2-6": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "3-3": {
@@ -87,11 +81,11 @@
       "heldBy": []
     },
     "3-5": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "3-6": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "4-4": {
@@ -99,15 +93,15 @@
       "heldBy": []
     },
     "4-5": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "4-6": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "5-5": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "5-6": {
@@ -115,11 +109,11 @@
       "heldBy": []
     },
     "6-6": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     }
   },
-  "updatedAt": "2026-08-15T12:14:54.476Z",
+  "updatedAt": "2026-08-15T12:15:59.376Z",
   "updatedBy": "jarki",
-  "resetAt": "2026-08-15T12:10:57.348Z"
+  "resetAt": "2026-08-15T12:15:44.478Z"
 }
