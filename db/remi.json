@@ -22,9 +22,7 @@
     },
     "love-6": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "love-7": {
       "turun": false,
@@ -48,9 +46,7 @@
     },
     "love-Q": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "love-K": {
       "turun": false,
@@ -62,21 +58,15 @@
     },
     "wajik-2": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "wajik-3": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "wajik-4": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "wajik-5": {
       "turun": false,
@@ -84,9 +74,7 @@
     },
     "wajik-6": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "wajik-7": {
       "turun": false,
@@ -98,15 +86,11 @@
     },
     "wajik-9": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "wajik-10": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "wajik-J": {
       "turun": false,
@@ -126,9 +110,7 @@
     },
     "keriting-2": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "keriting-3": {
       "turun": false,
@@ -188,9 +170,7 @@
     },
     "sekop-4": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-5": {
       "turun": false,
@@ -202,9 +182,7 @@
     },
     "sekop-7": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-8": {
       "turun": false,
@@ -212,9 +190,7 @@
     },
     "sekop-9": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-10": {
       "turun": false,
@@ -226,9 +202,7 @@
     },
     "sekop-Q": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "sekop-K": {
       "turun": false,
@@ -240,10 +214,10 @@
       "type": "reset",
       "card": null,
       "by": "jarki",
-      "at": "2026-08-15T11:20:30.974Z"
+      "at": "2026-08-15T11:28:44.176Z"
     }
   ],
-  "updatedAt": "2026-08-15T11:25:05.759Z",
+  "updatedAt": "2026-08-15T11:28:45.934Z",
   "updatedBy": "jarki",
-  "resetAt": "2026-08-15T11:20:30.974Z"
+  "resetAt": "2026-08-15T11:28:44.176Z"
 }
