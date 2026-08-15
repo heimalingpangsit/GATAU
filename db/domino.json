@@ -1,27 +1,23 @@
 {
   "cards": {
     "0-0": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "0-1": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "0-2": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "0-3": {
       "turun": false,
       "heldBy": []
     },
     "0-4": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "0-5": {
@@ -33,7 +29,7 @@
       "heldBy": []
     },
     "1-1": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "1-2": {
@@ -45,7 +41,7 @@
       "heldBy": []
     },
     "1-4": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "1-5": {
@@ -77,7 +73,7 @@
       "heldBy": []
     },
     "3-3": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "3-4": {
@@ -105,7 +101,7 @@
       "heldBy": []
     },
     "5-5": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "5-6": {
@@ -117,7 +113,7 @@
       "heldBy": []
     }
   },
-  "updatedAt": "2026-08-14T16:29:41.407Z",
+  "updatedAt": "2026-08-15T11:20:31.049Z",
   "updatedBy": "jarki",
-  "resetAt": "2026-08-14T16:29:14.791Z"
+  "resetAt": "2026-08-15T11:20:30.974Z"
 }
