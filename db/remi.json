@@ -17,15 +17,15 @@
       "heldBy": []
     },
     "love-5": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "love-6": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "love-7": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "love-8": {
@@ -38,9 +38,7 @@
     },
     "love-10": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "love-J": {
       "turun": false,
@@ -48,9 +46,7 @@
     },
     "love-Q": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "love-K": {
       "turun": false,
@@ -102,9 +98,7 @@
     },
     "wajik-Q": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "wajik-K": {
       "turun": false,
@@ -115,15 +109,15 @@
       "heldBy": []
     },
     "keriting-2": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "keriting-3": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "keriting-4": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "keriting-5": {
@@ -147,7 +141,7 @@
       "heldBy": []
     },
     "keriting-10": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "keriting-J": {
@@ -155,7 +149,7 @@
       "heldBy": []
     },
     "keriting-Q": {
-      "turun": true,
+      "turun": false,
       "heldBy": []
     },
     "keriting-K": {
@@ -212,9 +206,7 @@
     },
     "sekop-K": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     }
   },
   "activity": [
@@ -222,10 +214,10 @@
       "type": "reset",
       "card": null,
       "by": "jarki",
-      "at": "2026-08-15T11:28:44.176Z"
+      "at": "2026-08-15T11:32:56.350Z"
     }
   ],
-  "updatedAt": "2026-08-15T12:11:00.210Z",
+  "updatedAt": "2026-08-15T12:11:03.189Z",
   "updatedBy": "jarki",
-  "resetAt": "2026-08-15T11:28:44.176Z"
+  "resetAt": "2026-08-15T11:32:56.350Z"
 }
