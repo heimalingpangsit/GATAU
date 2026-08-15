@@ -155,10 +155,8 @@
       "heldBy": []
     },
     "keriting-Q": {
-      "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "turun": true,
+      "heldBy": []
     },
     "keriting-K": {
       "turun": false,
@@ -227,7 +225,7 @@
       "at": "2026-08-15T11:28:44.176Z"
     }
   ],
-  "updatedAt": "2026-08-15T12:10:59.074Z",
+  "updatedAt": "2026-08-15T12:11:00.210Z",
   "updatedBy": "jarki",
   "resetAt": "2026-08-15T11:28:44.176Z"
 }
