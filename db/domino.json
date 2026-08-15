@@ -10,9 +10,7 @@
     },
     "0-2": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "0-3": {
       "turun": false,
@@ -20,9 +18,7 @@
     },
     "0-4": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "0-5": {
       "turun": false,
@@ -54,9 +50,7 @@
     },
     "1-6": {
       "turun": false,
-      "heldBy": [
-        "jarki"
-      ]
+      "heldBy": []
     },
     "2-2": {
       "turun": false,
@@ -119,7 +113,7 @@
       "heldBy": []
     }
   },
-  "updatedAt": "2026-08-15T12:20:59.027Z",
+  "updatedAt": "2026-08-15T12:21:00.488Z",
   "updatedBy": "jarki",
-  "resetAt": "2026-08-15T12:15:44.478Z"
+  "resetAt": "2026-08-15T12:16:53.404Z"
 }
